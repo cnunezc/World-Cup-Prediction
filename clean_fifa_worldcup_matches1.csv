@@ -1,0 +1,3407 @@
+HomeTeam;AwayTeam;Year;HomeGoals;AwayGoals;TotalGoals
+Oman;Thailand;2019;2;0;2
+United Arab Emirates;Bahrain;2019;1;1;2
+Thailand;India;2019;1;4;5
+Australia;Jordan;2019;0;1;1
+Syria;Palestine;2019;0;0;0
+China PR;Kyrgyzstan;2019;2;1;3
+South Korea;Philippines;2019;1;0;1
+Iran;Yemen;2019;5;0;5
+Finland;Sweden;2019;1;0;1
+Iraq;Vietnam;2019;3;2;5
+Saudi Arabia;North Korea;2019;4;0;4
+Qatar;Lebanon;2019;2;0;2
+Japan;Turkmenistan;2019;3;2;5
+Uzbekistan;Oman;2019;2;1;3
+Bahrain;Thailand;2019;0;1;1
+Jordan;Syria;2019;2;0;2
+United Arab Emirates;India;2019;2;0;2
+Estonia;Finland;2019;2;1;3
+Iceland;Sweden;2019;2;2;4
+Palestine;Australia;2019;0;3;3
+Philippines;China PR;2019;0;3;3
+Kyrgyzstan;South Korea;2019;0;1;1
+Vietnam;Iran;2019;0;2;2
+Yemen;Iraq;2019;0;3;3
+Lebanon;Saudi Arabia;2019;0;2;2
+North Korea;Qatar;2019;0;6;6
+Oman;Japan;2019;0;1;1
+Turkmenistan;Uzbekistan;2019;0;4;4
+India;Bahrain;2019;0;1;1
+United Arab Emirates;Thailand;2019;1;1;2
+Estonia;Iceland;2019;0;0;0
+Australia;Syria;2019;3;2;5
+Palestine;Jordan;2019;0;0;0
+South Korea;China PR;2019;2;0;2
+Kyrgyzstan;Philippines;2019;3;1;4
+Iran;Iraq;2019;0;0;0
+Vietnam;Yemen;2019;2;0;2
+Lebanon;North Korea;2019;4;1;5
+Saudi Arabia;Qatar;2019;0;2;2
+Japan;Uzbekistan;2019;2;1;3
+Oman;Turkmenistan;2019;3;1;4
+Iran;Oman;2019;2;0;2
+Jordan;Vietnam;2019;1;1;2
+Thailand;China PR;2019;1;2;3
+Australia;Uzbekistan;2019;0;0;0
+Japan;Saudi Arabia;2019;1;0;1
+United Arab Emirates;Kyrgyzstan;2019;3;2;5
+South Korea;Bahrain;2019;2;1;3
+Qatar;Iraq;2019;1;0;1
+China PR;Iran;2019;0;3;3
+Vietnam;Japan;2019;0;1;1
+South Korea;Qatar;2019;0;1;1
+United Arab Emirates;Australia;2019;1;0;1
+United States;Panama;2019;3;0;3
+Iran;Japan;2019;0;3;3
+United Arab Emirates;Qatar;2019;0;4;4
+Japan;Qatar;2019;1;3;4
+United States;Costa Rica;2019;2;0;2
+Kazakhstan;Moldova;2019;1;0;1
+Cuba;Bermuda;2019;5;0;5
+Bolivia;Nicaragua;2019;2;2;4
+Barbados;Grenada;2019;3;0;3
+El Salvador;Guatemala;2019;3;1;4
+Cambodia;Bangladesh;2019;0;1;1
+Bahamas;Turks and Caicos Islands;2019;6;1;7
+Fiji;New Caledonia;2019;3;0;3
+Solomon Islands;Vanuatu;2019;3;1;4
+Myanmar;Taiwan;2019;0;0;0
+Germany;Serbia;2019;1;1;2
+Wales;Trinidad and Tobago;2019;1;0;1
+Kosovo;Denmark;2019;2;2;4
+Kuwait;Nepal;2019;0;0;0
+Mauritius;New Caledonia;2019;3;1;4
+United Arab Emirates;Saudi Arabia;2019;2;1;3
+United States;Ecuador;2019;1;0;1
+Northern Ireland;Estonia;2019;2;0;2
+Netherlands;Belarus;2019;4;0;4
+Croatia;Azerbaijan;2019;2;1;3
+Slovakia;Hungary;2019;2;0;2
+Austria;Poland;2019;0;1;1
+North Macedonia;Latvia;2019;3;1;4
+Israel;Slovenia;2019;1;1;2
+Cyprus;San Marino;2019;5;0;5
+Belgium;Russia;2019;3;1;4
+Kazakhstan;Scotland;2019;3;0;3
+British Virgin Islands;Turks and Caicos Islands;2019;2;2;4
+Argentina;Venezuela;2019;1;3;4
+Guatemala;Costa Rica;2019;1;0;1
+Japan;Colombia;2019;0;1;1
+South Korea;Bolivia;2019;1;0;1
+Mexico;Chile;2019;3;1;4
+Peru;Paraguay;2019;1;0;1
+Bulgaria;Montenegro;2019;1;1;2
+England;Czech Republic;2019;5;0;5
+Portugal;Ukraine;2019;0;0;0
+Luxembourg;Lithuania;2019;2;1;3
+Albania;Turkey;2019;0;2;2
+Andorra;Iceland;2019;0;2;2
+Moldova;France;2019;1;4;5
+Botswana;Angola;2019;0;1;1
+Anguilla;United States Virgin Islands;2019;0;3;3
+Saint Vincent and the Grenadines;Bonaire;2019;2;1;3
+Cayman Islands;Montserrat;2019;1;2;3
+Saint Lucia;Aruba;2019;3;2;5
+Brazil;Panama;2019;1;1;2
+Malaysia;Afghanistan;2019;2;1;3
+Oman;Singapore;2019;1;1;2
+Georgia;Switzerland;2019;0;2;2
+Gibraltar;Republic of Ireland;2019;0;1;1
+Malta;Faroe Islands;2019;2;1;3
+Sweden;Romania;2019;2;1;3
+Spain;Norway;2019;2;1;3
+Bosnia and Herzegovina;Armenia;2019;2;1;3
+Italy;Finland;2019;2;0;2
+Liechtenstein;Greece;2019;0;2;2
+Senegal;Madagascar;2019;2;0;2
+Cameroon;Comoros;2019;3;0;3
+Mali;South Sudan;2019;3;0;3
+Ghana;Kenya;2019;1;0;1
+Niger;Egypt;2019;1;1;2
+Zambia;Namibia;2019;4;1;5
+Dominica;Bahamas;2019;4;0;4
+Sint Maarten;Saint Martin;2019;4;3;7
+Antigua and Barbuda;Curaçao;2019;2;1;3
+Guyana;Belize;2019;2;1;3
+Suriname;Saint Kitts and Nevis;2019;2;0;2
+Guadeloupe;Martinique;2019;0;1;1
+Taiwan;Solomon Islands;2019;0;1;1
+Fiji;Mauritius;2019;1;0;1
+Northern Ireland;Belarus;2019;2;1;3
+Netherlands;Germany;2019;2;3;5
+Wales;Slovakia;2019;1;0;1
+Hungary;Croatia;2019;2;1;3
+Israel;Austria;2019;4;2;6
+Poland;Latvia;2019;2;0;2
+Slovenia;North Macedonia;2019;1;1;2
+San Marino;Scotland;2019;0;2;2
+Kazakhstan;Russia;2019;0;4;4
+Cyprus;Belgium;2019;0;2;2
+Benin;Togo;2019;2;1;3
+Libya;South Africa;2019;1;2;3
+Zimbabwe;Congo;2019;2;0;2
+Central African Republic;Guinea;2019;0;0;0
+Tanzania;Uganda;2019;3;0;3
+British Virgin Islands;Bonaire;2019;1;2;3
+Puerto Rico;Grenada;2019;0;2;2
+Canada;French Guiana;2019;4;1;5
+Dominican Republic;Bermuda;2019;1;3;4
+Haiti;Cuba;2019;2;1;3
+Barbados;Nicaragua;2019;0;1;1
+El Salvador;Jamaica;2019;2;0;2
+Catalonia;Venezuela;2019;2;1;3
+Azerbaijan;Lithuania;2019;0;0;0
+Kuwait;Nepal;2019;1;0;1
+Myanmar;Indonesia;2019;0;2;2
+Saudi Arabia;Equatorial Guinea;2019;3;2;5
+Kosovo;Bulgaria;2019;1;1;2
+Montenegro;England;2019;1;5;6
+Portugal;Serbia;2019;1;1;2
+Luxembourg;Ukraine;2019;1;2;3
+Turkey;Moldova;2019;4;0;4
+Andorra;Albania;2019;0;3;3
+France;Iceland;2019;4;0;4
+Algeria;Tunisia;2019;1;0;1
+Costa Rica;Jamaica;2019;1;0;1
+Czech Republic;Brazil;2019;1;3;4
+Ghana;Mauritania;2019;3;1;4
+Gibraltar;Estonia;2019;0;1;1
+Honduras;Ecuador;2019;0;0;0
+Ivory Coast;Liberia;2019;1;0;1
+Japan;Bolivia;2019;0;1;1
+South Korea;Colombia;2019;2;1;3
+Morocco;Argentina;2019;0;1;1
+Nicaragua;Guatemala;2019;0;1;1
+Nigeria;Egypt;2019;1;0;1
+Paraguay;Mexico;2019;2;4;6
+Peru;El Salvador;2019;0;2;2
+Senegal;Mali;2019;2;1;3
+United Arab Emirates;Syria;2019;0;0;0
+United States;Chile;2019;1;1;2
+Republic of Ireland;Georgia;2019;1;0;1
+Switzerland;Denmark;2019;3;3;6
+Malta;Spain;2019;0;2;2
+Norway;Sweden;2019;3;3;6
+Romania;Faroe Islands;2019;4;1;5
+Bosnia and Herzegovina;Greece;2019;2;2;4
+Italy;Liechtenstein;2019;6;0;6
+Armenia;Finland;2019;0;2;2
+Botswana;Seychelles;2019;2;0;2
+Eswatini;Malawi;2019;0;0;0
+Yorkshire;Somaliland;2019;6;2;8
+Malawi;Eswatini;2019;1;1;2
+Seychelles;Botswana;2019;1;3;4
+Eswatini;Mauritius;2019;2;2;4
+Kernow;Barawa;2019;5;0;5
+Cascadia;Chagos Islands;2019;6;3;9
+Mozambique;Namibia;2019;1;2;3
+Malawi;Seychelles;2019;3;0;3
+Eswatini;Comoros;2019;2;2;4
+Seychelles;Mozambique;2019;0;0;0
+Namibia;Malawi;2019;1;2;3
+Laos;Sri Lanka;2019;2;1;3
+Comoros;Mauritius;2019;2;1;3
+Panama;Basque Country;2019;0;0;0
+Mozambique;Malawi;2019;1;1;2
+Namibia;Seychelles;2019;3;0;3
+Turkey;Greece;2019;2;1;3
+Laos;Sri Lanka;2019;2;2;4
+Lesotho;Uganda;2019;0;0;0
+Zimbabwe;Comoros;2019;2;0;2
+Venezuela;Ecuador;2019;1;1;2
+Yorkshire;Parishes of Jersey;2019;1;0;1
+South Africa;Botswana;2019;2;2;4
+Zambia;Malawi;2019;2;2;4
+El Salvador;Haiti;2019;1;0;1
+France;Bolivia;2019;2;0;2
+Luxembourg;Madagascar;2019;3;3;6
+Malaysia;Nepal;2019;2;0;2
+Turkey;Uzbekistan;2019;0;0;0
+Abkhazia;Chameria;2019;3;1;4
+Artsakh;Sápmi;2019;3;2;5
+Padania;Székely Land;2019;4;0;4
+Western Armenia;South Ossetia;2019;1;2;3
+Parishes of Jersey;Chagos Islands;2019;9;2;11
+Colombia;Panama;2019;3;0;3
+Vanuatu;Tahiti;2019;2;0;2
+Artsakh;Chameria;2019;1;4;5
+Sápmi;Abkhazia;2019;0;1;1
+Székely Land;Western Armenia;2019;0;5;5
+South Ossetia;Padania;2019;2;1;3
+Comoros;Malawi;2019;1;2;3
+Artsakh;Abkhazia;2019;1;1;2
+Chameria;Sápmi;2019;4;0;4
+South Ossetia;Székely Land;2019;2;2;4
+Padania;Western Armenia;2019;1;1;2
+South Africa;Uganda;2019;1;1;2
+Lesotho;Botswana;2019;1;2;3
+Zimbabwe;Zambia;2019;0;0;0
+Brazil;Qatar;2019;2;0;2
+Japan;Trinidad and Tobago;2019;0;0;0
+Mexico;Venezuela;2019;3;1;4
+Paraguay;Honduras;2019;1;1;2
+Peru;Costa Rica;2019;1;0;1
+United States;Jamaica;2019;0;1;1
+Portugal;Switzerland;2019;3;1;4
+Bermuda;Guyana;2019;1;0;1
+Chile;Haiti;2019;2;1;3
+Taiwan;Nepal;2019;1;1;2
+Iran;Syria;2019;5;0;5
+Slovakia;Jordan;2019;5;1;6
+Tajikistan;Afghanistan;2019;1;1;2
+England;Netherlands;2019;1;3;4
+Abkhazia;Western Armenia;2019;1;1;2
+South Ossetia;Chameria;2019;0;0;0
+Padania;Sápmi;2019;4;0;4
+Artsakh;Székely Land;2019;2;1;3
+Bhutan;Guam;2019;1;0;1
+Cambodia;Pakistan;2019;2;0;2
+Laos;Bangladesh;2019;0;1;1
+Macau;Sri Lanka;2019;1;0;1
+Mongolia;Brunei;2019;2;0;2
+Czech Republic;Bulgaria;2019;2;1;3
+Montenegro;Kosovo;2019;1;1;2
+Lithuania;Luxembourg;2019;1;1;2
+Ukraine;Serbia;2019;5;0;5
+Georgia;Gibraltar;2019;3;0;3
+Denmark;Republic of Ireland;2019;1;1;2
+Faroe Islands;Spain;2019;1;4;5
+Norway;Romania;2019;2;2;4
+Sweden;Malta;2019;3;0;3
+Austria;Slovenia;2019;1;0;1
+North Macedonia;Poland;2019;0;1;1
+Latvia;Israel;2019;0;3;3
+Lesotho;Zimbabwe;2019;2;2;4
+South Africa;Malawi;2019;0;0;0
+Argentina;Nicaragua;2019;5;1;6
+China PR;Philippines;2019;2;0;2
+Fiji;Tahiti;2019;1;1;2
+Ivory Coast;Comoros;2019;3;1;4
+Kenya;Madagascar;2019;1;0;1
+South Korea;Australia;2019;1;0;1
+Tunisia;Iraq;2019;2;0;2
+Uruguay;Panama;2019;3;0;3
+Uzbekistan;North Korea;2019;4;0;4
+Malaysia;Timor-Leste;2019;7;1;8
+Estonia;Northern Ireland;2019;1;2;3
+Belarus;Germany;2019;0;2;2
+Croatia;Wales;2019;2;1;3
+Azerbaijan;Hungary;2019;1;3;4
+Iceland;Albania;2019;1;0;1
+Moldova;Andorra;2019;1;0;1
+Turkey;France;2019;2;0;2
+Russia;San Marino;2019;9;0;9
+Scotland;Cyprus;2019;2;1;3
+Belgium;Kazakhstan;2019;3;0;3
+Finland;Bosnia and Herzegovina;2019;2;0;2
+Armenia;Liechtenstein;2019;3;0;3
+Greece;Italy;2019;0;3;3
+Botswana;Zambia;2019;0;1;1
+Angola;Guinea-Bissau;2019;2;0;2
+Nigeria;Zimbabwe;2019;0;0;0
+Singapore;Solomon Islands;2019;4;3;7
+Abkhazia;Chameria;2019;0;0;0
+Sápmi;Székely Land;2019;3;2;5
+Artsakh;Padania;2019;2;0;2
+Brazil;Honduras;2019;7;0;7
+Cameroon;Zambia;2019;2;1;3
+DR Congo;Burkina Faso;2019;0;0;0
+Japan;El Salvador;2019;2;0;2
+Mexico;Ecuador;2019;3;2;5
+Paraguay;Guatemala;2019;2;0;2
+Peru;Colombia;2019;0;3;3
+Turkmenistan;Uganda;2019;0;0;0
+United States;Venezuela;2019;0;3;3
+Switzerland;England;2019;0;0;0
+Portugal;Netherlands;2019;1;0;1
+Western Armenia;South Ossetia;2019;0;1;1
+Czech Republic;Montenegro;2019;3;0;3
+Bulgaria;Kosovo;2019;2;3;5
+Serbia;Lithuania;2019;4;1;5
+Ukraine;Luxembourg;2019;1;0;1
+Republic of Ireland;Gibraltar;2019;2;0;2
+Denmark;Georgia;2019;5;1;6
+Faroe Islands;Norway;2019;0;2;2
+Malta;Romania;2019;0;4;4
+Spain;Sweden;2019;3;0;3
+North Macedonia;Austria;2019;1;4;5
+Poland;Israel;2019;4;0;4
+Latvia;Slovenia;2019;0;5;5
+Vanuatu;Fiji;2019;0;0;0
+Germany;Estonia;2019;8;0;8
+Belarus;Northern Ireland;2019;0;1;1
+Azerbaijan;Slovakia;2019;1;5;6
+Hungary;Wales;2019;1;0;1
+Iceland;Turkey;2019;2;1;3
+Albania;Moldova;2019;2;0;2
+Andorra;France;2019;0;4;4
+Kazakhstan;San Marino;2019;4;0;4
+Belgium;Scotland;2019;3;0;3
+Russia;Cyprus;2019;1;0;1
+Italy;Bosnia and Herzegovina;2019;2;1;3
+Liechtenstein;Finland;2019;0;2;2
+Greece;Armenia;2019;2;3;5
+Algeria;Burundi;2019;1;1;2
+Benin;Guinea;2019;1;0;1
+China PR;Tajikistan;2019;1;0;1
+Croatia;Tunisia;2019;1;2;3
+Hong Kong;Taiwan;2019;0;2;2
+Jordan;Indonesia;2019;4;1;5
+South Korea;Iran;2019;1;1;2
+Kyrgyzstan;Palestine;2019;2;2;4
+Singapore;Myanmar;2019;1;2;3
+Uzbekistan;Syria;2019;2;0;2
+Bangladesh;Laos;2019;0;0;0
+Brunei;Mongolia;2019;2;1;3
+Guam;Bhutan;2019;5;0;5
+Pakistan;Cambodia;2019;1;2;3
+Sri Lanka;Macau;2019;3;0;3
+Malaysia;Timor-Leste;2019;5;1;6
+Morocco;Gambia;2019;0;1;1
+Ynys Môn;Saint Helena;2019;7;2;9
+Egypt;Tanzania;2019;1;0;1
+Cameroon;Mali;2019;1;1;2
+Madagascar;Mauritania;2019;1;3;4
+Brazil;Bolivia;2019;3;0;3
+Venezuela;Peru;2019;0;0;0
+Argentina;Colombia;2019;0;2;2
+Canada;Martinique;2019;4;0;4
+Mexico;Cuba;2019;7;0;7
+Ghana;South Africa;2019;0;0;0
+Indonesia;Vanuatu;2019;6;0;6
+Ivory Coast;Uganda;2019;0;1;1
+Kenya;DR Congo;2019;1;1;2
+Tanzania;Zimbabwe;2019;1;1;2
+Jersey;Orkney;2019;5;0;5
+Ynys Môn;Western Isles;2019;2;1;3
+Alderney;Hitra;2019;2;4;6
+Saint Helena;Shetland;2019;1;6;7
+Paraguay;Qatar;2019;2;2;4
+Uruguay;Ecuador;2019;4;0;4
+Haiti;Bermuda;2019;2;1;3
+Costa Rica;Nicaragua;2019;4;0;4
+Algeria;Mali;2019;3;2;5
+Egypt;Guinea;2019;3;1;4
+Morocco;Zambia;2019;2;3;5
+Senegal;Nigeria;2019;1;0;1
+Ynys Môn;Orkney;2019;3;1;4
+Jersey;Western Isles;2019;7;0;7
+Isle of Man;Hitra;2019;7;1;8
+Guernsey;Shetland;2019;2;1;3
+Japan;Chile;2019;0;4;4
+Curaçao;El Salvador;2019;0;1;1
+Jamaica;Honduras;2019;3;2;5
+Tunisia;Burundi;2019;2;1;3
+Ynys Môn;Jersey;2019;1;0;1
+Western Isles;Orkney;2019;1;2;3
+Isle of Man;Alderney;2019;6;1;7
+Guernsey;Saint Helena;2019;9;0;9
+Bolivia;Peru;2019;1;3;4
+Brazil;Venezuela;2019;0;0;0
+Panama;Trinidad and Tobago;2019;2;0;2
+United States;Guyana;2019;4;0;4
+Benin;Mauritania;2019;3;1;4
+Colombia;Qatar;2019;1;0;1
+Argentina;Paraguay;2019;1;1;2
+Cuba;Martinique;2019;0;3;3
+Mexico;Canada;2019;3;1;4
+Ivory Coast;Zambia;2019;4;1;5
+Western Isles;Saint Helena;2019;2;1;3
+Orkney;Alderney;2019;1;2;3
+Jersey;Hitra;2019;3;1;4
+Ynys Môn;Shetland;2019;2;1;3
+Isle of Man;Guernsey;2019;2;3;5
+Uruguay;Japan;2019;2;2;4
+Nicaragua;Haiti;2019;0;2;2
+Costa Rica;Bermuda;2019;2;1;3
+Shetland;Isle of Man;2019;0;5;5
+Ynys Môn;Guernsey;2019;2;1;3
+Egypt;Zimbabwe;2019;1;0;1
+Ecuador;Chile;2019;1;2;3
+El Salvador;Jamaica;2019;0;0;0
+Honduras;Curaçao;2019;0;1;1
+DR Congo;Uganda;2019;0;2;2
+Nigeria;Burundi;2019;1;0;1
+Guinea;Madagascar;2019;2;2;4
+Bolivia;Venezuela;2019;1;3;4
+Guyana;Panama;2019;2;4;6
+United States;Trinidad and Tobago;2019;6;0;6
+Brazil;Peru;2019;5;0;5
+Senegal;Tanzania;2019;2;0;2
+Algeria;Kenya;2019;2;0;2
+Morocco;Namibia;2019;1;0;1
+Colombia;Paraguay;2019;1;0;1
+Qatar;Argentina;2019;0;2;2
+Canada;Cuba;2019;7;0;7
+Martinique;Mexico;2019;2;3;5
+Ivory Coast;South Africa;2019;1;0;1
+Tunisia;Angola;2019;1;1;2
+Mali;Mauritania;2019;4;1;5
+Chile;Uruguay;2019;0;1;1
+Ecuador;Japan;2019;1;1;2
+Bermuda;Nicaragua;2019;2;0;2
+Haiti;Costa Rica;2019;2;1;3
+Cameroon;Guinea-Bissau;2019;2;0;2
+Ghana;Benin;2019;2;2;4
+Jamaica;Curaçao;2019;1;1;2
+Honduras;El Salvador;2019;4;0;4
+Uganda;Zimbabwe;2019;1;1;2
+Egypt;DR Congo;2019;2;0;2
+Nigeria;Guinea;2019;1;0;1
+Trinidad and Tobago;Guyana;2019;1;1;2
+United States;Panama;2019;1;0;1
+Madagascar;Burundi;2019;1;0;1
+Senegal;Algeria;2019;0;1;1
+Kenya;Tanzania;2019;3;2;5
+Brazil;Paraguay;2019;0;0;0
+Morocco;Ivory Coast;2019;1;0;1
+South Africa;Namibia;2019;1;0;1
+Tunisia;Mali;2019;1;1;2
+Colombia;Chile;2019;0;0;0
+Venezuela;Argentina;2019;0;2;2
+Mauritania;Angola;2019;0;0;0
+Cameroon;Ghana;2019;0;0;0
+Benin;Guinea-Bissau;2019;0;0;0
+Uruguay;Peru;2019;0;0;0
+Haiti;Canada;2019;3;2;5
+Mexico;Costa Rica;2019;1;1;2
+Egypt;Uganda;2019;2;0;2
+Zimbabwe;DR Congo;2019;0;4;4
+Burundi;Guinea;2019;0;2;2
+Madagascar;Nigeria;2019;2;0;2
+Jamaica;Panama;2019;1;0;1
+United States;Curaçao;2019;1;0;1
+Kenya;Senegal;2019;0;3;3
+Tanzania;Algeria;2019;0;3;3
+Namibia;Ivory Coast;2019;1;4;5
+South Africa;Morocco;2019;0;1;1
+Angola;Mali;2019;0;1;1
+Mauritania;Tunisia;2019;0;0;0
+Benin;Cameroon;2019;0;0;0
+Guinea-Bissau;Ghana;2019;0;2;2
+Brazil;Argentina;2019;2;0;2
+Haiti;Mexico;2019;0;1;1
+Chile;Peru;2019;0;3;3
+United States;Jamaica;2019;3;1;4
+Morocco;Benin;2019;1;1;2
+Uganda;Senegal;2019;0;1;1
+Egypt;South Africa;2019;0;1;1
+Nigeria;Cameroon;2019;3;2;5
+Argentina;Chile;2019;2;1;3
+Algeria;Guinea;2019;3;0;3
+Madagascar;DR Congo;2019;2;2;4
+Brazil;Peru;2019;3;1;4
+United States;Mexico;2019;0;1;1
+India;Tajikistan;2019;2;4;6
+Ghana;Tunisia;2019;1;1;2
+Mali;Ivory Coast;2019;0;1;1
+Samoa;Papua New Guinea;2019;0;6;6
+American Samoa;New Caledonia;2019;0;5;5
+Tuvalu;Solomon Islands;2019;0;13;13
+Tahiti;Fiji;2019;1;2;3
+Syria;North Korea;2019;5;2;7
+Nigeria;South Africa;2019;2;1;3
+Senegal;Benin;2019;1;0;1
+Papua New Guinea;Vanuatu;2019;2;0;2
+Tuvalu;Tahiti;2019;0;7;7
+American Samoa;Fiji;2019;0;9;9
+Solomon Islands;New Caledonia;2019;0;2;2
+Tajikistan;Syria;2019;2;0;2
+Ivory Coast;Algeria;2019;1;1;2
+Madagascar;Tunisia;2019;0;3;3
+Samoa;Tonga;2019;2;0;2
+American Samoa;Tuvalu;2019;1;1;2
+Solomon Islands;Tahiti;2019;0;3;3
+New Caledonia;Fiji;2019;1;0;1
+India;North Korea;2019;2;5;7
+Algeria;Nigeria;2019;2;1;3
+Senegal;Tunisia;2019;1;0;1
+Tonga;Vanuatu;2019;0;14;14
+Fiji;Tuvalu;2019;10;1;11
+Solomon Islands;American Samoa;2019;13;0;13
+Tahiti;New Caledonia;2019;0;3;3
+North Korea;Tajikistan;2019;1;0;1
+India;Syria;2019;1;1;2
+Tunisia;Nigeria;2019;0;1;1
+Papua New Guinea;Tonga;2019;8;0;8
+Samoa;Vanuatu;2019;0;11;11
+New Caledonia;Tuvalu;2019;11;0;11
+American Samoa;Tahiti;2019;8;1;9
+Fiji;Solomon Islands;2019;4;4;8
+Senegal;Algeria;2019;0;1;1
+Tajikistan;North Korea;2019;0;1;1
+Papua New Guinea;Fiji;2019;1;1;2
+Equatorial Guinea;Liberia;2019;1;1;2
+Djibouti;Ethiopia;2019;0;1;1
+Botswana;Zambia;2019;0;0;0
+Comoros;Namibia;2019;0;2;2
+Burundi;South Sudan;2019;2;0;2
+Somalia;Uganda;2019;1;3;4
+Cape Verde;Mauritania;2019;0;0;0
+Guinea-Bissau;Mali;2019;0;4;4
+Chad;Equatorial Guinea;2019;3;3;6
+Tanzania;Kenya;2019;0;0;0
+Lesotho;South Africa;2019;3;2;5
+Madagascar;Mozambique;2019;1;0;1
+Eswatini;Angola;2019;1;1;2
+Liberia;Senegal;2019;1;0;1
+Benin;Togo;2019;0;0;0
+Mauritius;Zimbabwe;2019;0;4;4
+Uganda;Somalia;2019;4;1;5
+Angola;Eswatini;2019;1;1;2
+Zambia;Botswana;2019;3;2;5
+Mauritania;Cape Verde;2019;2;1;3
+Senegal;Liberia;2019;3;0;3
+Equatorial Guinea;Chad;2019;2;1;3
+Ethiopia;Djibouti;2019;4;3;7
+Kenya;Tanzania;2019;0;0;0
+South Sudan;Burundi;2019;1;2;3
+Mozambique;Madagascar;2019;3;2;5
+Namibia;Comoros;2019;0;0;0
+South Africa;Lesotho;2019;0;3;3
+Zimbabwe;Mauritius;2019;3;1;4
+Mali;Guinea-Bissau;2019;3;0;3
+Togo;Benin;2019;1;0;1
+Saint Vincent and the Grenadines;Trinidad and Tobago;2019;1;0;1
+Dominican Republic;Guatemala;2019;0;0;0
+Saint Kitts and Nevis;Antigua and Barbuda;2019;4;3;7
+Belize;Saint Vincent and the Grenadines;2019;1;1;2
+Taiwan;Guam;2019;3;0;3
+United Arab Emirates;Dominican Republic;2019;4;0;4
+Belize;Saint Vincent and the Grenadines;2019;1;0;1
+China PR;Myanmar;2019;4;1;5
+Malaysia;Jordan;2019;0;1;1
+United Arab Emirates;Sri Lanka;2019;5;1;6
+Libya;Burkina Faso;2019;0;1;1
+Burundi;Tanzania;2019;1;1;2
+Djibouti;Eswatini;2019;2;1;3
+Eritrea;Namibia;2019;1;2;3
+Ethiopia;Lesotho;2019;0;0;0
+Liberia;Sierra Leone;2019;3;1;4
+Mauritius;Mozambique;2019;0;1;1
+São Tomé and Príncipe;Guinea-Bissau;2019;0;1;1
+South Sudan;Equatorial Guinea;2019;1;1;2
+Argentina;Chile;2019;0;0;0
+Honduras;Puerto Rico;2019;4;0;4
+South Korea;Georgia;2019;2;2;4
+Montenegro;Hungary;2019;2;1;3
+Northern Ireland;Luxembourg;2019;1;0;1
+Peru;Ecuador;2019;0;1;1
+Saudi Arabia;Mali;2019;1;1;2
+Republic of Ireland;Switzerland;2019;1;1;2
+Gibraltar;Denmark;2019;0;6;6
+Faroe Islands;Sweden;2019;0;4;4
+Norway;Malta;2019;2;0;2
+Romania;Spain;2019;1;2;3
+Israel;North Macedonia;2019;1;1;2
+Armenia;Italy;2019;1;3;4
+Bosnia and Herzegovina;Liechtenstein;2019;5;0;5
+Finland;Greece;2019;1;0;1
+Japan;Paraguay;2019;2;0;2
+Bermuda;Panama;2019;1;4;5
+Grenada;Saint Kitts and Nevis;2019;2;1;3
+French Guiana;Belize;2019;3;0;3
+Dominica;Suriname;2019;1;2;3
+United States Virgin Islands;Cayman Islands;2019;0;2;2
+Barbados;Saint Martin;2019;4;0;4
+Guatemala;Anguilla;2019;10;0;10
+Guam;Maldives;2019;0;1;1
+Philippines;Syria;2019;2;5;7
+Taiwan;Jordan;2019;1;2;3
+Kuwait;Nepal;2019;7;0;7
+Cambodia;Hong Kong;2019;1;1;2
+Bahrain;Iraq;2019;1;1;2
+Palestine;Uzbekistan;2019;2;0;2
+Singapore;Yemen;2019;2;2;4
+India;Oman;2019;1;2;3
+Qatar;Afghanistan;2019;6;0;6
+Mongolia;Myanmar;2019;1;0;1
+Tajikistan;Kyrgyzstan;2019;1;0;1
+Thailand;Vietnam;2019;0;0;0
+Indonesia;Malaysia;2019;2;3;5
+North Korea;Lebanon;2019;2;0;2
+Sri Lanka;Turkmenistan;2019;0;2;2
+Chad;Sudan;2019;1;3;4
+Seychelles;Rwanda;2019;0;3;3
+Somalia;Zimbabwe;2019;1;0;1
+Brazil;Colombia;2019;2;2;4
+Costa Rica;Uruguay;2019;1;2;3
+Ivory Coast;Benin;2019;1;2;3
+Morocco;Burkina Faso;2019;1;1;2
+Tunisia;Mauritania;2019;1;0;1
+United States;Mexico;2019;0;3;3
+Estonia;Belarus;2019;1;2;3
+Germany;Netherlands;2019;2;4;6
+Wales;Azerbaijan;2019;2;1;3
+Slovakia;Croatia;2019;0;4;4
+Austria;Latvia;2019;6;0;6
+Slovenia;Poland;2019;2;0;2
+Cyprus;Kazakhstan;2019;1;1;2
+Scotland;Russia;2019;1;2;3
+San Marino;Belgium;2019;0;4;4
+Martinique;Trinidad and Tobago;2019;1;1;2
+Aruba;Guyana;2019;0;1;1
+Jamaica;Antigua and Barbuda;2019;6;0;6
+Nicaragua;Saint Vincent and the Grenadines;2019;1;1;2
+Bonaire;British Virgin Islands;2019;4;2;6
+Comoros;Togo;2019;1;1;2
+Gambia;Angola;2019;0;1;1
+Libya;Niger;2019;2;0;2
+Kosovo;Czech Republic;2019;2;1;3
+England;Bulgaria;2019;4;0;4
+Lithuania;Ukraine;2019;0;3;3
+Serbia;Portugal;2019;2;4;6
+Iceland;Moldova;2019;3;0;3
+France;Albania;2019;4;1;5
+Turkey;Andorra;2019;1;0;1
+Canada;Cuba;2019;6;0;6
+Curaçao;Haiti;2019;1;0;1
+Montserrat;Dominican Republic;2019;2;1;3
+El Salvador;Saint Lucia;2019;3;0;3
+Guadeloupe;Sint Maarten;2019;5;1;6
+Botswana;Malawi;2019;0;0;0
+Kenya;Uganda;2019;1;1;2
+Switzerland;Gibraltar;2019;4;0;4
+Georgia;Denmark;2019;0;0;0
+Romania;Malta;2019;1;0;1
+Spain;Faroe Islands;2019;4;0;4
+Sweden;Norway;2019;1;1;2
+Armenia;Bosnia and Herzegovina;2019;4;2;6
+Finland;Italy;2019;1;2;3
+Greece;Liechtenstein;2019;1;1;2
+Panama;Bermuda;2019;0;2;2
+Belize;Grenada;2019;1;2;3
+Saint Kitts and Nevis;French Guiana;2019;2;2;4
+Saint Vincent and the Grenadines;Dominica;2019;1;0;1
+Suriname;Nicaragua;2019;6;0;6
+Saint Martin;United States Virgin Islands;2019;1;2;3
+Cayman Islands;Barbados;2019;3;2;5
+Equatorial Guinea;South Sudan;2019;1;0;1
+Lesotho;Ethiopia;2019;1;1;2
+Sierra Leone;Liberia;2019;1;0;1
+Tanzania;Burundi;2019;1;1;2
+Algeria;Benin;2019;1;0;1
+Iraq;Uzbekistan;2019;0;0;0
+Wales;Belarus;2019;1;0;1
+Northern Ireland;Germany;2019;0;2;2
+Estonia;Netherlands;2019;0;4;4
+Azerbaijan;Croatia;2019;1;1;2
+Hungary;Slovakia;2019;1;2;3
+Poland;Austria;2019;0;0;0
+Slovenia;Israel;2019;3;2;5
+Latvia;North Macedonia;2019;0;2;2
+Scotland;Belgium;2019;0;4;4
+Russia;Kazakhstan;2019;1;0;1
+San Marino;Cyprus;2019;0;4;4
+Trinidad and Tobago;Martinique;2019;2;2;4
+Antigua and Barbuda;Aruba;2019;2;1;3
+Guyana;Jamaica;2019;0;4;4
+Bahamas;Bonaire;2019;2;1;3
+Argentina;Mexico;2019;4;0;4
+Brazil;Peru;2019;0;1;1
+Colombia;Venezuela;2019;0;0;0
+Ecuador;Bolivia;2019;3;0;3
+Honduras;Chile;2019;2;1;3
+Ivory Coast;Tunisia;2019;2;1;3
+Jordan;Paraguay;2019;2;4;6
+Morocco;Niger;2019;1;0;1
+Oman;Lebanon;2019;1;0;1
+Republic of Ireland;Bulgaria;2019;3;1;4
+Ukraine;Nigeria;2019;2;2;4
+United States;Uruguay;2019;1;1;2
+England;Kosovo;2019;5;3;8
+Montenegro;Czech Republic;2019;0;3;3
+Luxembourg;Serbia;2019;1;3;4
+Lithuania;Portugal;2019;1;5;6
+Albania;Iceland;2019;4;2;6
+France;Andorra;2019;3;0;3
+Moldova;Turkey;2019;0;4;4
+Cuba;Canada;2019;0;1;1
+Haiti;Curaçao;2019;1;1;2
+Montserrat;Saint Lucia;2019;1;1;2
+Dominican Republic;El Salvador;2019;1;0;1
+Puerto Rico;Guatemala;2019;0;5;5
+Turks and Caicos Islands;Guadeloupe;2019;0;3;3
+Guam;Philippines;2019;1;4;5
+Maldives;China PR;2019;0;5;5
+Kuwait;Australia;2019;0;3;3
+Taiwan;Nepal;2019;0;2;2
+Cambodia;Bahrain;2019;0;1;1
+Hong Kong;Iran;2019;0;2;2
+Yemen;Saudi Arabia;2019;2;2;4
+Singapore;Palestine;2019;2;1;3
+Afghanistan;Bangladesh;2019;1;0;1
+Qatar;India;2019;0;0;0
+Mongolia;Tajikistan;2019;0;1;1
+Myanmar;Japan;2019;0;2;2
+Indonesia;Thailand;2019;0;3;3
+Malaysia;United Arab Emirates;2019;1;2;3
+Turkmenistan;South Korea;2019;0;2;2
+Sri Lanka;North Korea;2019;0;1;1
+Angola;Gambia;2019;2;1;3
+Guinea-Bissau;São Tomé and Príncipe;2019;2;1;3
+Malawi;Botswana;2019;1;0;1
+Mozambique;Mauritius;2019;2;0;2
+Namibia;Eritrea;2019;2;0;2
+Rwanda;Seychelles;2019;7;0;7
+Sudan;Chad;2019;0;0;0
+Eswatini;Djibouti;2019;0;0;0
+Togo;Comoros;2019;2;0;2
+Zimbabwe;Somalia;2019;3;1;4
+DR Congo;Rwanda;2019;2;3;5
+Burundi;Uganda;2019;0;3;3
+Algeria;Morocco;2019;0;0;0
+Tunisia;Libya;2019;1;0;1
+Mauritania;Mali;2019;0;0;0
+Senegal;Guinea;2019;1;0;1
+Central African Republic;DR Congo;2019;0;2;2
+Equatorial Guinea;Congo;2019;2;2;4
+Ethiopia;Rwanda;2019;0;1;1
+Tanzania;Sudan;2019;0;1;1
+Madagascar;Namibia;2019;1;0;1
+Eswatini;Zambia;2019;0;1;1
+Zimbabwe;Lesotho;2019;3;1;4
+Ghana;Burkina Faso;2019;0;1;1
+Niger;Ivory Coast;2019;2;0;2
+Togo;Nigeria;2019;4;1;5
+Bangladesh;Bhutan;2019;4;1;5
+Botswana;Liberia;2019;0;0;0
+Mexico;Trinidad and Tobago;2019;2;0;2
+Bangladesh;Bhutan;2019;2;0;2
+Jordan;Singapore;2019;0;0;0
+Malaysia;Sri Lanka;2019;6;0;6
+Djibouti;Gambia;2019;1;1;2
+Liberia;Chad;2019;1;0;1
+Mauritius;São Tomé and Príncipe;2019;1;3;4
+South Sudan;Seychelles;2019;2;1;3
+Bahrain;Azerbaijan;2019;2;3;5
+Germany;Argentina;2019;2;2;4
+Belarus;Estonia;2019;0;0;0
+Netherlands;Northern Ireland;2019;3;1;4
+Croatia;Hungary;2019;3;0;3
+Slovakia;Wales;2019;1;1;2
+Austria;Israel;2019;3;1;4
+North Macedonia;Slovenia;2019;2;1;3
+Latvia;Poland;2019;0;3;3
+Kazakhstan;Cyprus;2019;1;2;3
+Belgium;San Marino;2019;9;0;9
+Russia;Scotland;2019;4;0;4
+Algeria;DR Congo;2019;1;1;2
+Brazil;Senegal;2019;1;1;2
+Cape Verde;Togo;2019;2;1;3
+Gabon;Burkina Faso;2019;1;0;1
+Kosovo;Gibraltar;2019;1;0;1
+Niger;Zambia;2019;1;1;2
+Serbia;Paraguay;2019;1;0;1
+Thailand;Congo;2019;1;1;2
+Venezuela;Bolivia;2019;4;1;5
+Trinidad and Tobago;Honduras;2019;0;2;2
+Haiti;Costa Rica;2019;1;1;2
+Belize;Saint Kitts and Nevis;2019;0;4;4
+French Guiana;Grenada;2019;0;0;0
+British Virgin Islands;Bahamas;2019;0;4;4
+Sint Maarten;Turks and Caicos Islands;2019;2;5;7
+Syria;Maldives;2019;2;1;3
+China PR;Guam;2019;7;0;7
+Jordan;Kuwait;2019;0;0;0
+Australia;Nepal;2019;5;0;5
+Iran;Cambodia;2019;14;0;14
+Iraq;Hong Kong;2019;2;0;2
+Uzbekistan;Yemen;2019;5;0;5
+Saudi Arabia;Singapore;2019;3;0;3
+Bangladesh;Qatar;2019;0;2;2
+Oman;Afghanistan;2019;3;0;3
+Japan;Mongolia;2019;6;0;6
+Kyrgyzstan;Myanmar;2019;7;0;7
+United Arab Emirates;Indonesia;2019;5;0;5
+Vietnam;Malaysia;2019;1;0;1
+Lebanon;Turkmenistan;2019;2;1;3
+South Korea;Sri Lanka;2019;8;0;8
+Czech Republic;England;2019;2;1;3
+Montenegro;Bulgaria;2019;0;0;0
+Portugal;Luxembourg;2019;3;0;3
+Ukraine;Lithuania;2019;2;0;2
+Iceland;France;2019;0;1;1
+Andorra;Moldova;2019;1;0;1
+Turkey;Albania;2019;1;0;1
+Morocco;Libya;2019;1;1;2
+Uruguay;Peru;2019;1;0;1
+United States;Cuba;2019;7;0;7
+Bermuda;Mexico;2019;1;5;6
+Antigua and Barbuda;Guyana;2019;2;1;3
+Saint Vincent and the Grenadines;Suriname;2019;2;2;4
+Nicaragua;Dominica;2019;3;1;4
+Georgia;Republic of Ireland;2019;0;0;0
+Denmark;Switzerland;2019;1;0;1
+Faroe Islands;Romania;2019;0;3;3
+Malta;Sweden;2019;0;4;4
+Norway;Spain;2019;1;1;2
+Bosnia and Herzegovina;Finland;2019;4;1;5
+Italy;Greece;2019;2;0;2
+Liechtenstein;Armenia;2019;1;1;2
+Colombia;Chile;2019;0;0;0
+Guinea;Comoros;2019;0;1;1
+Ivory Coast;DR Congo;2019;3;1;4
+Tunisia;Cameroon;2019;0;0;0
+Dominican Republic;Saint Lucia;2019;3;0;3
+Montserrat;El Salvador;2019;0;2;2
+Jamaica;Aruba;2019;2;0;2
+Barbados;United States Virgin Islands;2019;1;0;1
+Saint Martin;Cayman Islands;2019;3;0;3
+Anguilla;Guatemala;2019;0;5;5
+Belarus;Netherlands;2019;1;2;3
+Estonia;Germany;2019;0;3;3
+Hungary;Azerbaijan;2019;1;0;1
+Wales;Croatia;2019;1;1;2
+Poland;North Macedonia;2019;2;0;2
+Slovenia;Austria;2019;0;1;1
+Scotland;San Marino;2019;6;0;6
+Cyprus;Russia;2019;0;5;5
+Kazakhstan;Belgium;2019;0;2;2
+Gambia;Djibouti;2019;1;1;2
+Chad;Liberia;2019;1;0;1
+São Tomé and Príncipe;Mauritius;2019;2;1;3
+Seychelles;South Sudan;2019;0;1;1
+Benin;Zambia;2019;2;2;4
+Brazil;Nigeria;2019;1;1;2
+Ecuador;Argentina;2019;1;6;7
+Equatorial Guinea;Togo;2019;1;1;2
+Ethiopia;Uganda;2019;0;1;1
+Kenya;Mozambique;2019;0;1;1
+Lesotho;Malawi;2019;1;1;2
+Niger;Central African Republic;2019;0;2;2
+Slovakia;Paraguay;2019;1;1;2
+South Africa;Mali;2019;2;1;3
+Honduras;Martinique;2019;1;0;1
+Costa Rica;Curaçao;2019;0;0;0
+Saint Kitts and Nevis;Belize;2019;0;1;1
+Grenada;French Guiana;2019;1;0;1
+British Virgin Islands;Bonaire;2019;3;4;7
+Kosovo;Montenegro;2019;2;0;2
+Bulgaria;England;2019;0;6;6
+Lithuania;Serbia;2019;1;2;3
+Ukraine;Portugal;2019;2;1;3
+Iceland;Andorra;2019;2;0;2
+France;Turkey;2019;1;1;2
+Moldova;Albania;2019;0;4;4
+Czech Republic;Northern Ireland;2019;2;3;5
+Egypt;Botswana;2019;1;0;1
+Rwanda;Tanzania;2019;0;0;0
+Venezuela;Trinidad and Tobago;2019;2;0;2
+Guyana;Antigua and Barbuda;2019;5;1;6
+Dominica;Nicaragua;2019;0;4;4
+Suriname;Saint Vincent and the Grenadines;2019;0;1;1
+Sint Maarten;Guadeloupe;2019;1;2;3
+Gibraltar;Georgia;2019;2;3;5
+Switzerland;Republic of Ireland;2019;2;0;2
+Faroe Islands;Malta;2019;1;0;1
+Sweden;Spain;2019;1;1;2
+Romania;Norway;2019;1;1;2
+Israel;Latvia;2019;3;1;4
+Finland;Armenia;2019;3;0;3
+Liechtenstein;Italy;2019;0;5;5
+Greece;Bosnia and Herzegovina;2019;2;1;3
+Algeria;Colombia;2019;3;0;3
+Bermuda;Guatemala;2019;0;0;0
+Bolivia;Haiti;2019;3;1;4
+Chile;Guinea;2019;3;2;5
+Denmark;Luxembourg;2019;4;0;4
+Kuwait;Turkmenistan;2019;1;1;2
+Mauritania;Libya;2019;0;0;0
+Morocco;Gabon;2019;2;3;5
+Peru;Uruguay;2019;1;1;2
+Canada;United States;2019;2;0;2
+Mexico;Panama;2019;3;1;4
+Dominican Republic;Montserrat;2019;0;0;0
+Saint Lucia;El Salvador;2019;0;2;2
+Aruba;Jamaica;2019;0;6;6
+Cayman Islands;Saint Martin;2019;1;0;1
+United States Virgin Islands;Barbados;2019;0;4;4
+Anguilla;Puerto Rico;2019;2;3;5
+Syria;Guam;2019;4;0;4
+Philippines;China PR;2019;0;0;0
+Jordan;Nepal;2019;3;0;3
+Taiwan;Australia;2019;1;7;8
+Cambodia;Iraq;2019;0;4;4
+Bahrain;Iran;2019;1;0;1
+Palestine;Saudi Arabia;2019;0;0;0
+Singapore;Uzbekistan;2019;1;3;4
+India;Bangladesh;2019;1;1;2
+Qatar;Oman;2019;2;1;3
+Mongolia;Kyrgyzstan;2019;1;2;3
+Tajikistan;Japan;2019;0;3;3
+Thailand;United Arab Emirates;2019;2;1;3
+Indonesia;Vietnam;2019;1;3;4
+North Korea;South Korea;2019;0;0;0
+Sri Lanka;Lebanon;2019;0;3;3
+Sudan;Tanzania;2019;1;2;3
+Rwanda;Ethiopia;2019;1;1;2
+Uganda;Burundi;2019;3;0;3
+Morocco;Algeria;2019;3;0;3
+Namibia;Madagascar;2019;2;0;2
+Zambia;Eswatini;2019;2;2;4
+Nigeria;Togo;2019;2;0;2
+Congo;Equatorial Guinea;2019;1;0;1
+DR Congo;Central African Republic;2019;4;1;5
+Libya;Tunisia;2019;1;2;3
+Lesotho;Zimbabwe;2019;0;0;0
+Guinea;Senegal;2019;1;0;1
+Mali;Mauritania;2019;2;0;2
+Burkina Faso;Ghana;2019;0;0;0
+Ivory Coast;Niger;2019;1;0;1
+Egypt;Liberia;2019;1;0;1
+Nicaragua;Cuba;2019;0;0;0
+Malaysia;Tajikistan;2019;1;0;1
+Namibia;Zambia;2019;0;2;2
+Uzbekistan;Kyrgyzstan;2019;3;1;4
+Nicaragua;Cuba;2019;0;1;1
+Trinidad and Tobago;Anguilla;2019;15;0;15
+Namibia;Chad;2019;2;1;3
+Malawi;South Sudan;2019;1;0;1
+Burkina Faso;Uganda;2019;0;0;0
+Sudan;São Tomé and Príncipe;2019;4;0;4
+Angola;Gambia;2019;1;3;4
+Central African Republic;Burundi;2019;2;0;2
+Cameroon;Cape Verde;2019;0;0;0
+Guinea-Bissau;Eswatini;2019;3;0;3
+Senegal;Congo;2019;2;0;2
+Nigeria;Benin;2019;2;1;3
+Sierra Leone;Lesotho;2019;1;1;2
+Mali;Guinea;2019;2;2;4
+Ghana;South Africa;2019;2;0;2
+DR Congo;Gabon;2019;0;0;0
+Mozambique;Rwanda;2019;2;0;2
+Egypt;Kenya;2019;1;1;2
+Togo;Comoros;2019;0;1;1
+Algeria;Zambia;2019;5;0;5
+England;Montenegro;2019;7;0;7
+Czech Republic;Kosovo;2019;2;1;3
+Portugal;Lithuania;2019;6;0;6
+Serbia;Luxembourg;2019;3;2;5
+Turkey;Iceland;2019;0;0;0
+Albania;Andorra;2019;2;2;4
+France;Moldova;2019;2;1;3
+Martinique;Honduras;2019;1;1;2
+Curaçao;Costa Rica;2019;1;2;3
+Saint Kitts and Nevis;Grenada;2019;0;0;0
+Belize;French Guiana;2019;2;0;2
+Bahamas;British Virgin Islands;2019;3;0;3
+Turks and Caicos Islands;Sint Maarten;2019;3;2;5
+Bulgaria;Paraguay;2019;0;1;1
+Cambodia;Mongolia;2019;1;1;2
+Ecuador;Trinidad and Tobago;2019;3;0;3
+Qatar;Singapore;2019;2;0;2
+Republic of Ireland;New Zealand;2019;3;1;4
+Ukraine;Estonia;2019;1;0;1
+Maldives;Philippines;2019;1;2;3
+Syria;China PR;2019;2;1;3
+Jordan;Australia;2019;0;1;1
+Kuwait;Taiwan;2019;9;0;9
+Iraq;Iran;2019;2;1;3
+Hong Kong;Bahrain;2019;0;0;0
+Uzbekistan;Saudi Arabia;2019;2;3;5
+Yemen;Palestine;2019;1;0;1
+Afghanistan;India;2019;1;1;2
+Oman;Bangladesh;2019;4;1;5
+Myanmar;Tajikistan;2019;4;3;7
+Kyrgyzstan;Japan;2019;0;2;2
+Vietnam;United Arab Emirates;2019;1;0;1
+Malaysia;Thailand;2019;2;1;3
+Lebanon;South Korea;2019;0;0;0
+Turkmenistan;North Korea;2019;3;1;4
+Morocco;Mauritania;2019;0;0;0
+Zimbabwe;Botswana;2019;0;0;0
+Tanzania;Equatorial Guinea;2019;2;1;3
+Tunisia;Libya;2019;4;1;5
+Denmark;Gibraltar;2019;6;0;6
+Switzerland;Georgia;2019;1;0;1
+Norway;Faroe Islands;2019;4;0;4
+Spain;Malta;2019;7;0;7
+Romania;Sweden;2019;0;2;2
+Finland;Liechtenstein;2019;3;0;3
+Brazil;Argentina;2019;0;1;1
+Bosnia and Herzegovina;Italy;2019;0;3;3
+Armenia;Greece;2019;0;1;1
+United States;Canada;2019;4;1;5
+Panama;Mexico;2019;0;3;3
+Antigua and Barbuda;Jamaica;2019;0;2;2
+Guyana;Aruba;2019;4;2;6
+Saint Vincent and the Grenadines;Nicaragua;2019;1;0;1
+Suriname;Dominica;2019;4;0;4
+Colombia;Peru;2019;1;0;1
+Hungary;Uruguay;2019;1;2;3
+Ivory Coast;Niger;2019;1;0;1
+Madagascar;Ethiopia;2019;1;0;1
+Northern Ireland;Netherlands;2019;0;0;0
+Germany;Belarus;2019;4;0;4
+Croatia;Slovakia;2019;3;1;4
+Azerbaijan;Wales;2019;0;2;2
+Slovenia;Latvia;2019;1;0;1
+Austria;North Macedonia;2019;2;1;3
+Israel;Poland;2019;1;2;3
+Cyprus;Scotland;2019;1;2;3
+San Marino;Kazakhstan;2019;1;3;4
+Russia;Belgium;2019;1;4;5
+Saint Lucia;Dominican Republic;2019;1;0;1
+El Salvador;Montserrat;2019;1;0;1
+Saint Martin;Barbados;2019;1;0;1
+Cayman Islands;United States Virgin Islands;2019;1;0;1
+Guatemala;Puerto Rico;2019;5;0;5
+Chad;Mali;2019;0;2;2
+Guinea;Namibia;2019;2;0;2
+South Sudan;Burkina Faso;2019;1;2;3
+Uganda;Malawi;2019;2;0;2
+South Africa;Sudan;2019;1;0;1
+Gabon;Angola;2019;2;1;3
+Rwanda;Cameroon;2019;0;1;1
+Congo;Guinea-Bissau;2019;3;0;3
+Eswatini;Senegal;2019;1;4;5
+Benin;Sierra Leone;2019;1;0;1
+Lesotho;Nigeria;2019;2;4;6
+Kosovo;England;2019;0;4;4
+Bulgaria;Czech Republic;2019;1;0;1
+Luxembourg;Portugal;2019;0;2;2
+Serbia;Ukraine;2019;2;2;4
+Albania;France;2019;0;2;2
+Andorra;Turkey;2019;0;2;2
+Moldova;Iceland;2019;1;2;3
+Honduras;Trinidad and Tobago;2019;4;0;4
+Costa Rica;Haiti;2019;1;1;2
+Grenada;Belize;2019;3;2;5
+French Guiana;Saint Kitts and Nevis;2019;3;1;4
+Bonaire;Bahamas;2019;1;1;2
+Guadeloupe;Turks and Caicos Islands;2019;10;0;10
+Lithuania;New Zealand;2019;1;0;1
+São Tomé and Príncipe;Ghana;2019;0;1;1
+Gambia;DR Congo;2019;2;2;4
+Cape Verde;Mozambique;2019;2;2;4
+Comoros;Egypt;2019;0;0;0
+Kenya;Togo;2019;1;1;2
+Botswana;Algeria;2019;0;1;1
+Niger;Madagascar;2019;2;6;8
+Republic of Ireland;Denmark;2019;1;1;2
+Gibraltar;Switzerland;2019;1;6;7
+Malta;Norway;2019;1;2;3
+Spain;Romania;2019;5;0;5
+Sweden;Faroe Islands;2019;3;0;3
+Italy;Armenia;2019;9;1;10
+Liechtenstein;Bosnia and Herzegovina;2019;0;3;3
+Greece;Finland;2019;2;1;3
+Jamaica;Guyana;2019;1;1;2
+Aruba;Antigua and Barbuda;2019;2;3;5
+Nicaragua;Suriname;2019;1;2;3
+Dominica;Saint Vincent and the Grenadines;2019;1;0;1
+Argentina;Uruguay;2019;2;2;4
+Burundi;Morocco;2019;0;3;3
+Mauritania;Central African Republic;2019;2;0;2
+Zambia;Zimbabwe;2019;1;2;3
+Equatorial Guinea;Tunisia;2019;0;1;1
+Libya;Tanzania;2019;2;1;3
+Ethiopia;Ivory Coast;2019;2;1;3
+Germany;Northern Ireland;2019;6;1;7
+Netherlands;Estonia;2019;5;0;5
+Wales;Hungary;2019;2;0;2
+Slovakia;Azerbaijan;2019;2;0;2
+North Macedonia;Israel;2019;1;0;1
+Japan;Venezuela;2019;1;4;5
+Poland;Slovenia;2019;3;2;5
+Latvia;Austria;2019;1;0;1
+Scotland;Kazakhstan;2019;3;1;4
+Belgium;Cyprus;2019;6;1;7
+San Marino;Russia;2019;0;5;5
+Cuba;United States;2019;0;4;4
+Mexico;Bermuda;2019;2;1;3
+El Salvador;Dominican Republic;2019;2;0;2
+Saint Lucia;Montserrat;2019;0;1;1
+Barbados;Cayman Islands;2019;3;0;3
+United States Virgin Islands;Saint Martin;2019;1;2;3
+Puerto Rico;Anguilla;2019;3;0;3
+Brazil;South Korea;2019;3;0;3
+Croatia;Georgia;2019;2;1;3
+Ecuador;Colombia;2019;0;1;1
+Montenegro;Belarus;2019;2;0;2
+Saudi Arabia;Paraguay;2019;0;0;0
+Maldives;Guam;2019;3;1;4
+Syria;Philippines;2019;1;0;1
+Nepal;Kuwait;2019;0;1;1
+Jordan;Taiwan;2019;5;0;5
+Iraq;Bahrain;2019;0;0;0
+Hong Kong;Cambodia;2019;2;0;2
+Uzbekistan;Palestine;2019;2;0;2
+Yemen;Singapore;2019;1;2;3
+Afghanistan;Qatar;2019;0;1;1
+Oman;India;2019;1;0;1
+Myanmar;Mongolia;2019;1;0;1
+Kyrgyzstan;Tajikistan;2019;1;1;2
+Vietnam;Thailand;2019;0;0;0
+Malaysia;Indonesia;2019;2;0;2
+Turkmenistan;Sri Lanka;2019;2;0;2
+Lebanon;North Korea;2019;0;0;0
+Guatemala;Antigua and Barbuda;2019;8;0;8
+Qatar;Iraq;2019;1;2;3
+United Arab Emirates;Yemen;2019;3;0;3
+Oman;Bahrain;2019;0;0;0
+Saudi Arabia;Kuwait;2019;1;3;4
+United Arab Emirates;Iraq;2019;0;2;2
+Qatar;Yemen;2019;6;0;6
+Kuwait;Oman;2019;1;2;3
+Bahrain;Saudi Arabia;2019;0;2;2
+Qatar;United Arab Emirates;2019;4;2;6
+Yemen;Iraq;2019;0;0;0
+Kuwait;Bahrain;2019;2;4;6
+Oman;Saudi Arabia;2019;1;3;4
+Iraq;Bahrain;2019;2;2;4
+Qatar;Saudi Arabia;2019;0;1;1
+Bahrain;Saudi Arabia;2019;1;0;1
+China PR;Japan;2019;1;2;3
+South Korea;Hong Kong;2019;2;0;2
+Japan;Hong Kong;2019;5;0;5
+South Korea;China PR;2019;1;0;1
+Hong Kong;China PR;2019;0;2;2
+South Korea;Japan;2019;1;0;1
+Barbados;Canada;2020;1;4;5
+Moldova;Sweden;2020;0;1;1
+Barbados;Canada;2020;1;4;5
+Kosovo;Sweden;2020;0;1;1
+Canada;Iceland;2020;0;1;1
+El Salvador;Iceland;2020;0;1;1
+United States;Costa Rica;2020;1;0;1
+Germany;Spain;2020;1;1;2
+Ukraine;Switzerland;2020;2;1;3
+Russia;Serbia;2020;3;1;4
+Turkey;Hungary;2020;0;1;1
+Bulgaria;Republic of Ireland;2020;1;1;2
+Finland;Wales;2020;0;1;1
+Moldova;Kosovo;2020;1;1;2
+Slovenia;Greece;2020;0;0;0
+Latvia;Andorra;2020;0;0;0
+Faroe Islands;Malta;2020;3;2;5
+Italy;Bosnia and Herzegovina;2020;1;1;2
+Netherlands;Poland;2020;1;0;1
+Norway;Austria;2020;1;2;3
+Romania;Northern Ireland;2020;1;1;2
+Scotland;Israel;2020;1;1;2
+Slovakia;Czech Republic;2020;1;3;4
+Lithuania;Kazakhstan;2020;0;2;2
+Belarus;Albania;2020;0;2;2
+Iceland;England;2020;0;1;1
+Denmark;Belgium;2020;0;2;2
+Portugal;Croatia;2020;4;1;5
+Sweden;France;2020;0;1;1
+Cyprus;Montenegro;2020;0;2;2
+Azerbaijan;Luxembourg;2020;1;2;3
+North Macedonia;Armenia;2020;2;1;3
+Estonia;Georgia;2020;0;1;1
+Gibraltar;San Marino;2020;1;0;1
+Spain;Ukraine;2020;4;0;4
+Switzerland;Germany;2020;1;1;2
+Hungary;Russia;2020;2;3;5
+Serbia;Turkey;2020;0;0;0
+Wales;Bulgaria;2020;1;0;1
+Republic of Ireland;Finland;2020;0;1;1
+Slovenia;Moldova;2020;1;0;1
+Kosovo;Greece;2020;1;2;3
+Andorra;Faroe Islands;2020;0;1;1
+Malta;Latvia;2020;1;1;2
+Bosnia and Herzegovina;Poland;2020;1;2;3
+Netherlands;Italy;2020;0;1;1
+Northern Ireland;Norway;2020;1;5;6
+Austria;Romania;2020;2;3;5
+Czech Republic;Scotland;2020;1;2;3
+Israel;Slovakia;2020;1;1;2
+Kazakhstan;Belarus;2020;1;2;3
+Albania;Lithuania;2020;0;1;1
+Belgium;Iceland;2020;5;1;6
+Denmark;England;2020;0;0;0
+France;Croatia;2020;4;2;6
+Sweden;Portugal;2020;0;2;2
+Luxembourg;Montenegro;2020;0;1;1
+Cyprus;Azerbaijan;2020;0;1;1
+Armenia;Estonia;2020;2;0;2
+Georgia;North Macedonia;2020;1;1;2
+San Marino;Liechtenstein;2020;0;2;2
+Nicaragua;Guatemala;2020;0;0;0
+Andorra;Cape Verde;2020;1;2;3
+Austria;Greece;2020;2;1;3
+Cyprus;Czech Republic;2020;1;2;3
+Denmark;Faroe Islands;2020;4;0;4
+Estonia;Lithuania;2020;1;3;4
+France;Ukraine;2020;7;1;8
+Germany;Turkey;2020;3;3;6
+Italy;Moldova;2020;6;0;6
+Luxembourg;Liechtenstein;2020;1;2;3
+Malta;Gibraltar;2020;2;0;2
+Montenegro;Latvia;2020;1;1;2
+Netherlands;Mexico;2020;0;1;1
+Poland;Finland;2020;5;1;6
+Portugal;Spain;2020;0;0;0
+Slovenia;San Marino;2020;4;0;4
+Switzerland;Croatia;2020;1;2;3
+Zambia;Malawi;2020;1;0;1
+Belgium;Ivory Coast;2020;1;1;2
+England;Wales;2020;3;0;3
+Russia;Sweden;2020;1;2;3
+South Africa;Namibia;2020;1;1;2
+Uzbekistan;Iran;2020;1;2;3
+Paraguay;Peru;2020;2;2;4
+Uruguay;Chile;2020;2;1;3
+Argentina;Ecuador;2020;1;0;1
+Iceland;Romania;2020;2;1;3
+Bulgaria;Hungary;2020;1;3;4
+Bosnia and Herzegovina;Northern Ireland;2020;1;1;2
+Slovakia;Republic of Ireland;2020;0;0;0
+Scotland;Israel;2020;0;0;0
+Norway;Serbia;2020;1;2;3
+Georgia;Belarus;2020;1;0;1
+North Macedonia;Kosovo;2020;2;1;3
+Burkina Faso;DR Congo;2020;3;0;3
+Congo;Gambia;2020;0;1;1
+Japan;Cameroon;2020;0;0;0
+Kenya;Zambia;2020;2;1;3
+Mali;Ghana;2020;3;0;3
+Mauritania;Sierra Leone;2020;2;1;3
+Morocco;Senegal;2020;3;1;4
+Nigeria;Algeria;2020;0;1;1
+Tunisia;Sudan;2020;3;0;3
+Colombia;Venezuela;2020;3;0;3
+Brazil;Bolivia;2020;5;0;5
+Spain;Switzerland;2020;1;0;1
+Ukraine;Germany;2020;1;2;3
+Luxembourg;Cyprus;2020;2;0;2
+Montenegro;Azerbaijan;2020;2;0;2
+Faroe Islands;Latvia;2020;1;1;2
+Andorra;Malta;2020;0;0;0
+Liechtenstein;Gibraltar;2020;0;1;1
+Cape Verde;Guinea;2020;1;2;3
+Costa Rica;Panama;2020;0;1;1
+Honduras;Nicaragua;2020;1;1;2
+Niger;Chad;2020;2;0;2
+Bosnia and Herzegovina;Netherlands;2020;0;0;0
+Poland;Italy;2020;0;0;0
+England;Belgium;2020;2;1;3
+Iceland;Denmark;2020;0;3;3
+Croatia;Sweden;2020;2;1;3
+France;Portugal;2020;0;0;0
+Norway;Romania;2020;4;0;4
+Northern Ireland;Austria;2020;0;1;1
+Scotland;Slovakia;2020;1;0;1
+Israel;Czech Republic;2020;1;2;3
+Serbia;Hungary;2020;0;1;1
+Russia;Turkey;2020;1;1;2
+Republic of Ireland;Wales;2020;0;0;0
+Finland;Bulgaria;2020;2;0;2
+Armenia;Georgia;2020;2;2;4
+Estonia;North Macedonia;2020;3;3;6
+Kosovo;Slovenia;2020;0;1;1
+Greece;Moldova;2020;2;0;2
+Kazakhstan;Albania;2020;0;0;0
+Lithuania;Belarus;2020;2;2;4
+Gabon;Benin;2020;0;2;2
+Malawi;Zimbabwe;2020;0;0;0
+South Africa;Zambia;2020;1;2;3
+Tanzania;Burundi;2020;0;1;1
+Burkina Faso;Madagascar;2020;2;1;3
+Ghana;Qatar;2020;5;1;6
+Togo;Sudan;2020;1;1;2
+United Arab Emirates;Uzbekistan;2020;1;2;3
+Cameroon;South Sudan;2020;0;0;0
+Germany;Switzerland;2020;3;3;6
+Ukraine;Spain;2020;1;0;1
+Azerbaijan;Cyprus;2020;0;0;0
+Montenegro;Luxembourg;2020;1;2;3
+Latvia;Malta;2020;0;1;1
+Faroe Islands;Andorra;2020;2;0;2
+Liechtenstein;San Marino;2020;0;0;0
+Costa Rica;Panama;2020;0;1;1
+Japan;Ivory Coast;2020;1;0;1
+Mexico;Algeria;2020;2;2;4
+Morocco;DR Congo;2020;1;1;2
+Mozambique;Angola;2020;0;3;3
+Niger;Sierra Leone;2020;1;0;1
+Nigeria;Tunisia;2020;1;1;2
+Bolivia;Argentina;2020;1;2;3
+Ecuador;Uruguay;2020;4;2;6
+Venezuela;Paraguay;2020;0;1;1
+Peru;Brazil;2020;2;4;6
+Chile;Colombia;2020;2;2;4
+Italy;Netherlands;2020;1;1;2
+Poland;Bosnia and Herzegovina;2020;3;0;3
+Iceland;Belgium;2020;1;2;3
+England;Denmark;2020;0;1;1
+Portugal;Sweden;2020;3;0;3
+Croatia;France;2020;1;2;3
+Norway;Northern Ireland;2020;1;0;1
+Romania;Austria;2020;0;1;1
+Scotland;Czech Republic;2020;1;0;1
+Slovakia;Israel;2020;2;3;5
+Russia;Hungary;2020;0;0;0
+Turkey;Serbia;2020;2;2;4
+Finland;Republic of Ireland;2020;1;0;1
+Bulgaria;Wales;2020;0;1;1
+North Macedonia;Georgia;2020;1;1;2
+Estonia;Armenia;2020;1;1;2
+Greece;Kosovo;2020;0;0;0
+Moldova;Slovenia;2020;0;4;4
+Lithuania;Albania;2020;0;0;0
+Belarus;Kazakhstan;2020;2;0;2
+Ethiopia;Sudan;2020;2;2;4
+Bahrain;Tajikistan;2020;1;0;1
+Albania;Kosovo;2020;2;1;3
+Belgium;Switzerland;2020;2;1;3
+Bulgaria;Gibraltar;2020;3;0;3
+Denmark;Sweden;2020;2;0;2
+France;Finland;2020;0;2;2
+Germany;Czech Republic;2020;1;0;1
+Greece;Cyprus;2020;2;1;3
+Italy;Estonia;2020;4;0;4
+Lithuania;Faroe Islands;2020;2;1;3
+Luxembourg;Austria;2020;0;3;3
+Malta;Liechtenstein;2020;3;0;3
+Montenegro;Kazakhstan;2020;0;0;0
+Netherlands;Spain;2020;1;1;2
+Poland;Ukraine;2020;2;0;2
+Portugal;Andorra;2020;7;0;7
+Romania;Belarus;2020;5;3;8
+San Marino;Latvia;2020;0;3;3
+Slovenia;Azerbaijan;2020;0;0;0
+Turkey;Croatia;2020;3;3;6
+Hungary;Iceland;2020;2;1;3
+Northern Ireland;Slovakia;2020;1;2;3
+Serbia;Scotland;2020;1;1;2
+Georgia;North Macedonia;2020;0;1;1
+Bosnia and Herzegovina;Iran;2020;0;2;2
+England;Republic of Ireland;2020;3;0;3
+Jordan;Iraq;2020;0;0;0
+Lebanon;Bahrain;2020;1;3;4
+Moldova;Russia;2020;0;0;0
+United Arab Emirates;Tajikistan;2020;3;2;5
+Uzbekistan;Syria;2020;0;1;1
+Wales;United States;2020;0;0;0
+Bolivia;Ecuador;2020;2;3;5
+Argentina;Paraguay;2020;1;1;2
+Bangladesh;Nepal;2020;2;0;2
+Costa Rica;Qatar;2020;1;1;2
+Japan;Panama;2020;1;0;1
+Colombia;Uruguay;2020;0;3;3
+Chile;Peru;2020;2;0;2
+Brazil;Venezuela;2020;1;0;1
+Portugal;France;2020;0;1;1
+Sweden;Croatia;2020;2;1;3
+Germany;Ukraine;2020;3;1;4
+Switzerland;Spain;2020;1;1;2
+Azerbaijan;Montenegro;2020;0;0;0
+Cyprus;Luxembourg;2020;2;1;3
+Malta;Andorra;2020;3;1;4
+Latvia;Faroe Islands;2020;1;1;2
+San Marino;Gibraltar;2020;0;0;0
+Mexico;South Korea;2020;3;2;5
+Saudi Arabia;Jamaica;2020;3;0;3
+Netherlands;Bosnia and Herzegovina;2020;3;1;4
+Italy;Poland;2020;2;0;2
+Belgium;England;2020;2;0;2
+Denmark;Iceland;2020;2;1;3
+Austria;Northern Ireland;2020;2;1;3
+Romania;Norway;2020;3;0;3
+Slovakia;Scotland;2020;1;0;1
+Czech Republic;Israel;2020;1;0;1
+Turkey;Russia;2020;3;2;5
+Hungary;Serbia;2020;1;1;2
+Wales;Republic of Ireland;2020;1;0;1
+Bulgaria;Finland;2020;1;2;3
+North Macedonia;Estonia;2020;2;1;3
+Georgia;Armenia;2020;1;2;3
+Slovenia;Kosovo;2020;2;1;3
+Moldova;Greece;2020;0;2;2
+Albania;Kazakhstan;2020;3;1;4
+Belarus;Lithuania;2020;2;0;2
+Guatemala;Honduras;2020;2;1;3
+Jordan;Syria;2020;1;0;1
+United Arab Emirates;Bahrain;2020;1;0;1
+United States;Panama;2020;6;2;8
+Basque Country;Costa Rica;2020;2;1;3
+Croatia;Portugal;2020;2;3;5
+France;Sweden;2020;4;2;6
+Spain;Germany;2020;6;0;6
+Switzerland;Ukraine;2020;3;0;3
+Luxembourg;Azerbaijan;2020;0;0;0
+Montenegro;Cyprus;2020;4;0;4
+Andorra;Latvia;2020;0;5;5
+Malta;Faroe Islands;2020;1;1;2
+Gibraltar;Liechtenstein;2020;1;1;2
+Bangladesh;Nepal;2020;0;0;0
+Japan;Mexico;2020;0;2;2
+South Korea;Qatar;2020;2;1;3
+Saudi Arabia;Jamaica;2020;1;2;3
+Uzbekistan;Iraq;2020;1;2;3
+Ecuador;Colombia;2020;6;1;7
+Venezuela;Chile;2020;2;1;3
+Peru;Argentina;2020;0;2;2
+Paraguay;Bolivia;2020;2;2;4
+Uruguay;Brazil;2020;0;2;2
+Bosnia and Herzegovina;Italy;2020;0;2;2
+Poland;Netherlands;2020;1;2;3
+England;Iceland;2020;4;0;4
+Belgium;Denmark;2020;4;2;6
+Northern Ireland;Romania;2020;1;1;2
+Austria;Norway;2020;1;1;2
+Czech Republic;Slovakia;2020;2;0;2
+Israel;Scotland;2020;1;0;1
+Hungary;Turkey;2020;2;0;2
+Serbia;Russia;2020;5;0;5
+Republic of Ireland;Bulgaria;2020;0;0;0
+Wales;Finland;2020;3;1;4
+Armenia;North Macedonia;2020;1;0;1
+Georgia;Estonia;2020;0;0;0
+Kosovo;Moldova;2020;1;0;1
+Greece;Slovenia;2020;0;0;0
+Albania;Belarus;2020;3;2;5
+Kazakhstan;Lithuania;2020;1;2;3
+Qatar;Bangladesh;2020;5;0;5
+United States;El Salvador;2020;6;0;6
+United Arab Emirates;Iraq;2021;0;0;0
+Kuwait;Palestine;2021;0;1;1
+Dominican Republic;Puerto Rico;2021;0;1;1
+Guatemala;Puerto Rico;2021;1;0;1
+Dominican Republic;Serbia;2021;0;0;0
+Iraq;Kuwait;2021;2;1;3
+Panama;Serbia;2021;0;0;0
+United States;Trinidad and Tobago;2021;7;0;7
+Jordan;Tajikistan;2021;2;0;2
+Jordan;Tajikistan;2021;0;1;1
+Jordan;Uzbekistan;2021;0;2;2
+Guatemala;Nicaragua;2021;1;0;1
+Kenya;South Sudan;2021;1;0;1
+Kenya;Tanzania;2021;2;1;3
+Ethiopia;Malawi;2021;4;0;4
+Oman;Jordan;2021;0;0;0
+Belarus;Honduras;2021;1;1;2
+Jordan;Lebanon;2021;1;0;1
+Kosovo;Lithuania;2021;4;0;4
+Qatar;Luxembourg;2021;1;0;1
+Antigua and Barbuda;Montserrat;2021;2;2;4
+Suriname;Cayman Islands;2021;3;0;3
+Guatemala;Cuba;2021;1;0;1
+Dominican Republic;Dominica;2021;1;0;1
+Saint Kitts and Nevis;Puerto Rico;2021;1;0;1
+Portugal;Azerbaijan;2021;1;0;1
+Serbia;Republic of Ireland;2021;3;2;5
+France;Ukraine;2021;1;1;2
+Finland;Bosnia and Herzegovina;2021;2;2;4
+Belgium;Wales;2021;3;1;4
+Estonia;Czech Republic;2021;2;6;8
+Turkey;Netherlands;2021;4;2;6
+Gibraltar;Norway;2021;0;3;3
+Latvia;Montenegro;2021;1;2;3
+Malta;Russia;2021;1;3;4
+Slovenia;Croatia;2021;1;0;1
+Cyprus;Slovakia;2021;0;0;0
+Chad;Namibia;2021;0;3;3
+Guinea;Mali;2021;1;0;1
+South Sudan;Malawi;2021;0;1;1
+Uganda;Burkina Faso;2021;0;0;0
+São Tomé and Príncipe;Sudan;2021;0;2;2
+Rwanda;Mozambique;2021;1;0;1
+Ethiopia;Madagascar;2021;4;0;4
+Bahrain;Syria;2021;3;1;4
+India;Oman;2021;1;1;2
+Japan;South Korea;2021;3;0;3
+Saudi Arabia;Kuwait;2021;1;0;1
+United States;Jamaica;2021;4;1;5
+El Salvador;Grenada;2021;2;0;2
+Canada;Bermuda;2021;5;1;6
+Curaçao;Saint Vincent and the Grenadines;2021;5;0;5
+Panama;Barbados;2021;1;0;1
+Haiti;Belize;2021;2;0;2
+Trinidad and Tobago;Guyana;2021;3;0;3
+Spain;Greece;2021;1;1;2
+Sweden;Georgia;2021;1;0;1
+Bulgaria;Switzerland;2021;1;3;4
+Italy;Northern Ireland;2021;2;0;2
+Israel;Denmark;2021;0;2;2
+Scotland;Austria;2021;2;2;4
+Moldova;Faroe Islands;2021;1;1;2
+England;San Marino;2021;5;0;5
+Andorra;Albania;2021;0;1;1
+Hungary;Poland;2021;3;3;6
+Germany;Iceland;2021;3;0;3
+Liechtenstein;Armenia;2021;0;1;1
+Romania;North Macedonia;2021;3;2;5
+South Africa;Ghana;2021;1;1;2
+Gambia;Angola;2021;1;0;1
+Gabon;DR Congo;2021;3;0;3
+Comoros;Togo;2021;0;0;0
+Kenya;Egypt;2021;1;1;2
+Botswana;Zimbabwe;2021;0;1;1
+Zambia;Algeria;2021;3;3;6
+Equatorial Guinea;Tanzania;2021;1;0;1
+Libya;Tunisia;2021;2;5;7
+Tajikistan;Mongolia;2021;3;0;3
+Chile;Bolivia;2021;2;1;3
+Burundi;Central African Republic;2021;2;2;4
+Mauritania;Morocco;2021;0;0;0
+Cape Verde;Cameroon;2021;3;1;4
+Eswatini;Guinea-Bissau;2021;1;3;4
+Congo;Senegal;2021;0;0;0
+Niger;Ivory Coast;2021;0;3;3
+Bosnia and Herzegovina;Costa Rica;2021;0;0;0
+Nepal;Bangladesh;2021;0;0;0
+Qatar;Azerbaijan;2021;2;1;3
+Wales;Mexico;2021;1;0;1
+United States Virgin Islands;Antigua and Barbuda;2021;0;3;3
+Aruba;Suriname;2021;0;6;6
+British Virgin Islands;Guatemala;2021;0;3;3
+Anguilla;Dominican Republic;2021;0;6;6
+Turks and Caicos Islands;Nicaragua;2021;0;7;7
+Bahamas;Saint Kitts and Nevis;2021;0;4;4
+Republic of Ireland;Luxembourg;2021;0;1;1
+Serbia;Portugal;2021;2;2;4
+Belarus;Estonia;2021;4;2;6
+Czech Republic;Belgium;2021;1;1;2
+Montenegro;Gibraltar;2021;4;1;5
+Netherlands;Latvia;2021;2;0;2
+Norway;Turkey;2021;0;3;3
+Russia;Slovenia;2021;2;1;3
+Croatia;Cyprus;2021;1;0;1
+Slovakia;Malta;2021;2;2;4
+Lesotho;Sierra Leone;2021;0;0;0
+Benin;Nigeria;2021;0;1;1
+Greece;Honduras;2021;2;1;3
+Northern Ireland;United States;2021;1;2;3
+Montserrat;El Salvador;2021;1;1;2
+Cuba;Curaçao;2021;1;2;3
+Dominica;Panama;2021;1;2;3
+Puerto Rico;Trinidad and Tobago;2021;1;1;2
+Georgia;Spain;2021;1;2;3
+Kosovo;Sweden;2021;0;3;3
+Switzerland;Lithuania;2021;1;0;1
+Bulgaria;Italy;2021;0;2;2
+Kazakhstan;France;2021;0;2;2
+Ukraine;Finland;2021;1;1;2
+Denmark;Moldova;2021;8;0;8
+Austria;Faroe Islands;2021;3;1;4
+Israel;Scotland;2021;1;1;2
+Albania;England;2021;0;2;2
+Poland;Andorra;2021;3;0;3
+San Marino;Hungary;2021;0;3;3
+Armenia;Iceland;2021;2;0;2
+North Macedonia;Liechtenstein;2021;5;0;5
+Romania;Germany;2021;0;1;1
+Namibia;Guinea;2021;2;1;3
+Mali;Chad;2021;3;0;3
+Ghana;São Tomé and Príncipe;2021;3;1;4
+Sudan;South Africa;2021;2;0;2
+Tunisia;Equatorial Guinea;2021;2;1;3
+Tanzania;Libya;2021;1;0;1
+Ecuador;Bolivia;2021;2;1;3
+Kuwait;Lebanon;2021;1;1;2
+Nepal;Bangladesh;2021;2;1;3
+Uzbekistan;Iraq;2021;0;1;1
+Cayman Islands;Canada;2021;0;11;11
+Burkina Faso;South Sudan;2021;1;0;1
+Malawi;Uganda;2021;1;0;1
+Angola;Gabon;2021;2;0;2
+DR Congo;Gambia;2021;1;0;1
+Togo;Kenya;2021;1;2;3
+Egypt;Comoros;2021;4;0;4
+Algeria;Botswana;2021;5;0;5
+Zimbabwe;Zambia;2021;0;2;2
+United Arab Emirates;India;2021;6;0;6
+Bahrain;Jordan;2021;1;2;3
+Costa Rica;Mexico;2021;0;1;1
+Iran;Syria;2021;3;0;3
+Republic of Ireland;Qatar;2021;1;1;2
+Grenada;United States Virgin Islands;2021;1;0;1
+Bermuda;Aruba;2021;5;0;5
+Saint Vincent and the Grenadines;British Virgin Islands;2021;3;0;3
+Barbados;Anguilla;2021;1;0;1
+Belize;Turks and Caicos Islands;2021;5;0;5
+Guyana;Bahamas;2021;4;0;4
+Azerbaijan;Serbia;2021;1;2;3
+Luxembourg;Portugal;2021;1;3;4
+Wales;Czech Republic;2021;1;0;1
+Belgium;Belarus;2021;8;0;8
+Gibraltar;Netherlands;2021;0;7;7
+Montenegro;Norway;2021;0;1;1
+Turkey;Latvia;2021;3;3;6
+Cyprus;Slovenia;2021;1;0;1
+Croatia;Malta;2021;3;0;3
+Slovakia;Russia;2021;2;1;3
+Saudi Arabia;Palestine;2021;5;0;5
+Japan;Mongolia;2021;14;0;14
+Central African Republic;Mauritania;2021;0;1;1
+Morocco;Burundi;2021;1;0;1
+Cameroon;Rwanda;2021;0;0;0
+Mozambique;Cape Verde;2021;0;1;1
+Guinea-Bissau;Congo;2021;3;0;3
+Senegal;Eswatini;2021;1;1;2
+Ivory Coast;Ethiopia;2021;3;1;4
+Madagascar;Niger;2021;0;0;0
+Nigeria;Lesotho;2021;3;0;3
+Sweden;Estonia;2021;1;0;1
+Switzerland;Finland;2021;3;2;5
+Spain;Kosovo;2021;3;1;4
+Greece;Georgia;2021;1;1;2
+Northern Ireland;Bulgaria;2021;0;0;0
+Lithuania;Italy;2021;0;2;2
+Bosnia and Herzegovina;France;2021;0;1;1
+Ukraine;Kazakhstan;2021;1;1;2
+Scotland;Faroe Islands;2021;4;0;4
+Austria;Denmark;2021;0;4;4
+Moldova;Israel;2021;1;4;5
+England;Poland;2021;2;1;3
+Andorra;Hungary;2021;1;4;5
+San Marino;Albania;2021;0;2;2
+Armenia;Romania;2021;3;2;5
+Germany;North Macedonia;2021;1;2;3
+Liechtenstein;Iceland;2021;1;4;5
+Ukraine;Bahrain;2021;1;1;2
+Iraq;Tajikistan;2021;0;0;0
+United Arab Emirates;Jordan;2021;5;1;6
+Indonesia;Afghanistan;2021;2;3;5
+Oman;Thailand;2021;1;0;1
+Turkey;Azerbaijan;2021;2;1;3
+Bahrain;Malaysia;2021;2;0;2
+Italy;San Marino;2021;7;0;7
+Indonesia;Oman;2021;1;3;4
+Iraq;Nepal;2021;6;2;8
+Mexico;Iceland;2021;2;1;3
+Singapore;Afghanistan;2021;1;1;2
+Sweden;Finland;2021;2;0;2
+Thailand;Tajikistan;2021;2;2;4
+Malta;Northern Ireland;2021;0;3;3
+Switzerland;United States;2021;2;1;3
+Jordan;Vietnam;2021;1;1;2
+Turkey;Guinea;2021;0;0;0
+Croatia;Armenia;2021;1;1;2
+Kosovo;San Marino;2021;4;1;5
+North Macedonia;Slovenia;2021;1;1;2
+Poland;Russia;2021;1;1;2
+Slovakia;Bulgaria;2021;1;1;2
+Lithuania;Estonia;2021;0;1;1
+Belarus;Azerbaijan;2021;1;2;3
+Bosnia and Herzegovina;Montenegro;2021;0;0;0
+England;Austria;2021;1;0;1
+France;Wales;2021;3;0;3
+Germany;Denmark;2021;1;1;2
+Mozambique;Lesotho;2021;5;0;5
+Netherlands;Scotland;2021;2;2;4
+Norway;Luxembourg;2021;1;0;1
+Romania;Georgia;2021;1;2;3
+Montserrat;United States Virgin Islands;2021;4;0;4
+Cayman Islands;Aruba;2021;1;3;4
+Cuba;British Virgin Islands;2021;5;0;5
+Dominica;Anguilla;2021;3;0;3
+Puerto Rico;Bahamas;2021;7;0;7
+Algeria;Mauritania;2021;4;1;5
+Andorra;Republic of Ireland;2021;1;4;5
+Belgium;Greece;2021;1;1;2
+Switzerland;Liechtenstein;2021;7;0;7
+Turkey;Moldova;2021;2;0;2
+Ukraine;Northern Ireland;2021;1;0;1
+Mexico;Costa Rica;2021;0;0;0
+United States;Honduras;2021;1;0;1
+Nepal;Taiwan;2021;2;0;2
+Iran;Hong Kong;2021;3;1;4
+Bahrain;Cambodia;2021;8;0;8
+Palestine;Singapore;2021;4;0;4
+Bangladesh;Afghanistan;2021;1;1;2
+United Arab Emirates;Malaysia;2021;4;0;4
+Thailand;Indonesia;2021;2;2;4
+Bolivia;Venezuela;2021;3;1;4
+Uruguay;Paraguay;2021;0;0;0
+Argentina;Chile;2021;1;1;2
+Peru;Colombia;2021;0;3;3
+Kuwait;Australia;2021;0;3;3
+Qatar;India;2021;1;0;1
+Faroe Islands;Iceland;2021;0;1;1
+Finland;Estonia;2021;0;1;1
+Hungary;Cyprus;2021;1;0;1
+Italy;Czech Republic;2021;4;0;4
+Kosovo;Malta;2021;2;1;3
+Nigeria;Cameroon;2021;0;1;1
+North Macedonia;Kazakhstan;2021;4;0;4
+Rwanda;Central African Republic;2021;2;0;2
+Slovenia;Gibraltar;2021;6;0;6
+Spain;Portugal;2021;0;0;0
+Latvia;Lithuania;2021;3;1;4
+Maldives;Syria;2021;0;4;4
+Antigua and Barbuda;Grenada;2021;1;0;1
+Suriname;Bermuda;2021;6;0;6
+Guatemala;Saint Vincent and the Grenadines;2021;10;0;10
+Dominican Republic;Barbados;2021;1;1;2
+Nicaragua;Belize;2021;3;0;3
+Saint Kitts and Nevis;Guyana;2021;3;0;3
+Brazil;Ecuador;2021;2;0;2
+Guinea;Togo;2021;0;2;2
+Ivory Coast;Burkina Faso;2021;2;1;3
+Montenegro;Israel;2021;1;3;4
+Niger;Gambia;2021;0;2;2
+Russia;Bulgaria;2021;1;0;1
+Senegal;Zambia;2021;3;1;4
+Sweden;Armenia;2021;3;1;4
+Tunisia;DR Congo;2021;1;0;1
+Wales;Albania;2021;0;0;0
+Saudi Arabia;Yemen;2021;3;0;3
+Lebanon;Sri Lanka;2021;3;2;5
+South Korea;Turkmenistan;2021;5;0;5
+United States Virgin Islands;El Salvador;2021;0;7;7
+Aruba;Canada;2021;0;7;7
+British Virgin Islands;Curaçao;2021;0;8;8
+Panama;Anguilla;2021;13;0;13
+Turks and Caicos Islands;Haiti;2021;0;10;10
+Bahamas;Trinidad and Tobago;2021;0;0;0
+Algeria;Mali;2021;1;0;1
+Austria;Slovakia;2021;0;0;0
+Belgium;Croatia;2021;1;0;1
+Denmark;Bosnia and Herzegovina;2021;2;0;2
+England;Romania;2021;1;0;1
+Luxembourg;Scotland;2021;0;1;1
+Moldova;Azerbaijan;2021;1;0;1
+Netherlands;Georgia;2021;3;0;3
+Norway;Greece;2021;1;2;3
+Honduras;Costa Rica;2021;2;2;4
+United States;Mexico;2021;3;2;5
+Andorra;Gibraltar;2021;0;0;0
+Faroe Islands;Liechtenstein;2021;5;1;6
+Germany;Latvia;2021;7;1;8
+Rwanda;Central African Republic;2021;5;0;5
+Serbia;Jamaica;2021;1;1;2
+Ukraine;Cyprus;2021;4;0;4
+Guam;Syria;2021;0;3;3
+China PR;Philippines;2021;2;0;2
+Nepal;Jordan;2021;0;3;3
+Australia;Taiwan;2021;5;1;6
+Iraq;Cambodia;2021;4;1;5
+Uzbekistan;Singapore;2021;5;0;5
+Bangladesh;India;2021;0;2;2
+Kyrgyzstan;Mongolia;2021;0;1;1
+Japan;Tajikistan;2021;4;1;5
+United Arab Emirates;Thailand;2021;3;1;4
+Vietnam;Indonesia;2021;4;0;4
+Bahrain;Iran;2021;0;3;3
+Qatar;Oman;2021;1;0;1
+Benin;Zambia;2021;2;2;4
+Cameroon;Nigeria;2021;0;0;0
+Czech Republic;Albania;2021;3;1;4
+France;Bulgaria;2021;3;0;3
+Gambia;Togo;2021;1;0;1
+Hungary;Republic of Ireland;2021;0;0;0
+Kosovo;Guinea;2021;1;2;3
+Morocco;Ghana;2021;1;0;1
+Mozambique;Eswatini;2021;1;1;2
+Poland;Iceland;2021;2;2;4
+Senegal;Cape Verde;2021;2;0;2
+Spain;Lithuania;2021;4;0;4
+Grenada;Montserrat;2021;1;2;3
+El Salvador;Antigua and Barbuda;2021;3;0;3
+Canada;Suriname;2021;4;0;4
+Bermuda;Cayman Islands;2021;1;1;2
+Saint Vincent and the Grenadines;Cuba;2021;0;1;1
+Curaçao;Guatemala;2021;0;0;0
+Barbados;Dominica;2021;1;1;2
+Panama;Dominican Republic;2021;3;0;3
+Haiti;Nicaragua;2021;1;0;1
+Guyana;Puerto Rico;2021;0;2;2
+Trinidad and Tobago;Saint Kitts and Nevis;2021;2;0;2
+Ecuador;Peru;2021;1;2;3
+Colombia;Argentina;2021;2;2;4
+Venezuela;Uruguay;2021;0;0;0
+Paraguay;Brazil;2021;0;2;2
+Chile;Bolivia;2021;1;1;2
+Turkmenistan;Lebanon;2021;3;2;5
+Niger;Congo;2021;0;1;1
+Portugal;Israel;2021;4;0;4
+United States;Costa Rica;2021;4;0;4
+South Korea;Sri Lanka;2021;5;0;5
+Estonia;Latvia;2021;2;1;3
+South Africa;Uganda;2021;3;2;5
+Philippines;Guam;2021;3;0;3
+China PR;Maldives;2021;5;0;5
+Nepal;Australia;2021;0;3;3
+Kuwait;Jordan;2021;0;0;0
+Cambodia;Iran;2021;0;10;10
+Hong Kong;Iraq;2021;0;1;1
+Yemen;Uzbekistan;2021;0;1;1
+Afghanistan;Oman;2021;1;2;3
+Myanmar;Kyrgyzstan;2021;1;8;9
+Malaysia;Vietnam;2021;1;2;3
+Japan;Serbia;2021;1;0;1
+DR Congo;Mali;2021;1;1;2
+Guinea;Niger;2021;2;1;3
+Kosovo;Gambia;2021;1;0;1
+Mauritania;Liberia;2021;1;0;1
+Tunisia;Algeria;2021;0;2;2
+Italy;Turkey;2021;3;0;3
+Saudi Arabia;Singapore;2021;3;0;3
+United Arab Emirates;Indonesia;2021;5;0;5
+Haiti;Canada;2021;0;1;1
+Panama;Curaçao;2021;2;1;3
+Saint Kitts and Nevis;El Salvador;2021;0;4;4
+Ghana;Ivory Coast;2021;0;0;0
+Mexico;Honduras;2021;0;0;0
+Morocco;Burkina Faso;2021;1;0;1
+Wales;Switzerland;2021;1;1;2
+Denmark;Finland;2021;0;1;1
+Russia;Belgium;2021;0;3;3
+South Korea;Lebanon;2021;2;1;3
+Sudan;Zambia;2021;0;1;1
+Tanzania;Malawi;2021;2;0;2
+Austria;North Macedonia;2021;3;1;4
+Netherlands;Ukraine;2021;3;2;5
+England;Croatia;2021;1;0;1
+Brazil;Venezuela;2021;3;0;3
+Colombia;Ecuador;2021;1;0;1
+Libya;Liberia;2021;0;1;1
+Scotland;Czech Republic;2021;0;2;2
+Poland;Slovakia;2021;1;2;3
+Spain;Sweden;2021;0;0;0
+Argentina;Chile;2021;1;1;2
+Paraguay;Bolivia;2021;3;1;4
+Philippines;Maldives;2021;1;1;2
+China PR;Syria;2021;3;1;4
+Australia;Jordan;2021;1;0;1
+Bahrain;Hong Kong;2021;4;0;4
+Iran;Iraq;2021;1;0;1
+Palestine;Yemen;2021;3;0;3
+Saudi Arabia;Uzbekistan;2021;3;0;3
+Bangladesh;Oman;2021;0;3;3
+India;Afghanistan;2021;1;1;2
+Tajikistan;Myanmar;2021;4;0;4
+Japan;Kyrgyzstan;2021;5;1;6
+Thailand;Malaysia;2021;0;1;1
+United Arab Emirates;Vietnam;2021;3;2;5
+Canada;Haiti;2021;3;0;3
+Curaçao;Panama;2021;0;0;0
+El Salvador;Saint Kitts and Nevis;2021;2;0;2
+Tunisia;Mali;2021;1;0;1
+Djibouti;Somalia;2021;1;0;1
+Hungary;Portugal;2021;0;3;3
+Germany;France;2021;0;1;1
+Kuwait;Taiwan;2021;2;1;3
+Turkey;Wales;2021;0;2;2
+Italy;Switzerland;2021;3;0;3
+Russia;Finland;2021;1;0;1
+Denmark;Belgium;2021;1;2;3
+Ukraine;North Macedonia;2021;2;1;3
+Netherlands;Austria;2021;2;0;2
+Colombia;Venezuela;2021;0;0;0
+Brazil;Peru;2021;4;0;4
+Algeria;Liberia;2021;5;1;6
+Croatia;Czech Republic;2021;1;1;2
+England;Scotland;2021;0;0;0
+Sweden;Slovakia;2021;1;0;1
+Chile;Bolivia;2021;1;0;1
+Argentina;Uruguay;2021;1;0;1
+Spain;Poland;2021;1;1;2
+Hungary;France;2021;1;1;2
+Germany;Portugal;2021;4;2;6
+Libya;Sudan;2021;0;1;1
+Italy;Wales;2021;1;0;1
+Switzerland;Turkey;2021;3;1;4
+Venezuela;Ecuador;2021;2;2;4
+Colombia;Peru;2021;1;2;3
+Oman;Somalia;2021;2;1;3
+Denmark;Russia;2021;4;1;5
+Finland;Belgium;2021;0;2;2
+Netherlands;North Macedonia;2021;3;0;3
+Ukraine;Austria;2021;0;1;1
+Uruguay;Chile;2021;1;1;2
+Argentina;Paraguay;2021;1;0;1
+Scotland;Croatia;2021;1;3;4
+England;Czech Republic;2021;1;0;1
+Mauritania;Yemen;2021;2;0;2
+Spain;Slovakia;2021;5;0;5
+Sweden;Poland;2021;3;2;5
+Germany;Hungary;2021;2;2;4
+Portugal;France;2021;2;2;4
+Ecuador;Peru;2021;2;2;4
+Brazil;Colombia;2021;2;1;3
+Lebanon;Djibouti;2021;1;0;1
+Bolivia;Uruguay;2021;0;2;2
+Chile;Paraguay;2021;0;2;2
+Palestine;Comoros;2021;5;1;6
+Bahrain;Kuwait;2021;2;0;2
+Italy;Austria;2021;2;1;3
+Wales;Denmark;2021;0;4;4
+Netherlands;Czech Republic;2021;0;2;2
+Belgium;Portugal;2021;1;0;1
+Brazil;Ecuador;2021;1;1;2
+Venezuela;Peru;2021;0;1;1
+El Salvador;Guatemala;2021;0;0;0
+Croatia;Spain;2021;3;5;8
+France;Switzerland;2021;3;3;6
+Argentina;Bolivia;2021;4;1;5
+Uruguay;Paraguay;2021;1;0;1
+England;Germany;2021;2;0;2
+Sweden;Ukraine;2021;1;2;3
+Mexico;Panama;2021;3;0;3
+Switzerland;Spain;2021;1;1;2
+Belgium;Italy;2021;1;2;3
+Peru;Paraguay;2021;3;3;6
+Brazil;Chile;2021;1;0;1
+Haiti;Saint Vincent and the Grenadines;2021;6;1;7
+Trinidad and Tobago;Montserrat;2021;6;1;7
+Bermuda;Barbados;2021;8;1;9
+Czech Republic;Denmark;2021;1;2;3
+Ukraine;England;2021;0;4;4
+Mexico;Nigeria;2021;4;0;4
+Uruguay;Colombia;2021;0;0;0
+Argentina;Ecuador;2021;3;0;3
+Guatemala;Guyana;2021;4;0;4
+Cuba;French Guiana;2021;0;3;3
+Guadeloupe;Bahamas;2021;2;0;2
+Qatar;El Salvador;2021;1;0;1
+Brazil;Peru;2021;1;0;1
+Argentina;Colombia;2021;1;1;2
+Italy;Spain;2021;1;1;2
+Haiti;Bermuda;2021;4;1;5
+Guatemala;Guadeloupe;2021;1;1;2
+Trinidad and Tobago;French Guiana;2021;1;1;2
+Eswatini;Lesotho;2021;3;1;4
+South Africa;Botswana;2021;1;0;1
+England;Denmark;2021;2;1;3
+Mozambique;Zimbabwe;2021;0;0;0
+Senegal;Namibia;2021;1;2;3
+Zambia;Lesotho;2021;1;2;3
+South Africa;Eswatini;2021;1;0;1
+Peru;Colombia;2021;2;3;5
+Malawi;Zimbabwe;2021;2;2;4
+Senegal;Mozambique;2021;1;0;1
+Brazil;Argentina;2021;0;1;1
+Lesotho;Botswana;2021;0;4;4
+Zambia;Eswatini;2021;0;1;1
+Mexico;Trinidad and Tobago;2021;0;0;0
+England;Italy;2021;1;1;2
+Namibia;Zimbabwe;2021;2;0;2
+Mozambique;Malawi;2021;2;0;2
+El Salvador;Guatemala;2021;2;0;2
+Canada;Martinique;2021;4;1;5
+United States;Haiti;2021;1;0;1
+Jamaica;Suriname;2021;2;0;2
+Costa Rica;Guadeloupe;2021;3;1;4
+Botswana;Zambia;2021;1;2;3
+South Africa;Lesotho;2021;4;0;4
+Senegal;Zimbabwe;2021;2;1;3
+Malawi;Namibia;2021;1;1;2
+Qatar;Panama;2021;3;3;6
+Honduras;Grenada;2021;4;0;4
+South Africa;Zambia;2021;0;0;0
+Eswatini;Botswana;2021;1;1;2
+Mozambique;Namibia;2021;1;0;1
+Senegal;Malawi;2021;2;1;3
+Trinidad and Tobago;El Salvador;2021;0;2;2
+Guatemala;Mexico;2021;0;3;3
+Haiti;Canada;2021;1;4;5
+United States;Martinique;2021;6;1;7
+Senegal;Eswatini;2021;2;2;4
+South Africa;Mozambique;2021;3;0;3
+Guadeloupe;Jamaica;2021;1;2;3
+Suriname;Costa Rica;2021;1;2;3
+Grenada;Qatar;2021;0;4;4
+Panama;Honduras;2021;2;3;5
+Eswatini;Mozambique;2021;1;1;2
+South Africa;Senegal;2021;0;0;0
+Guatemala;Trinidad and Tobago;2021;1;1;2
+Mexico;El Salvador;2021;1;0;1
+Martinique;Haiti;2021;1;2;3
+United States;Canada;2021;1;0;1
+Suriname;Guadeloupe;2021;2;1;3
+Costa Rica;Jamaica;2021;1;0;1
+Panama;Grenada;2021;3;1;4
+Honduras;Qatar;2021;0;2;2
+Mexico;Honduras;2021;3;0;3
+Qatar;El Salvador;2021;3;2;5
+Costa Rica;Canada;2021;0;2;2
+United States;Jamaica;2021;1;0;1
+Mexico;Canada;2021;2;1;3
+United States;Qatar;2021;1;0;1
+United States;Mexico;2021;1;0;1
+El Salvador;Costa Rica;2021;0;0;0
+Niger;Sudan;2021;2;1;3
+Sudan;Niger;2021;3;0;3
+Ethiopia;Sierra Leone;2021;0;0;0
+Ethiopia;Uganda;2021;2;1;3
+Bahrain;Haiti;2021;6;1;7
+Comoros;Seychelles;2021;7;1;8
+Finland;Wales;2021;0;0;0
+Qatar;Serbia;2021;0;4;4
+Switzerland;Greece;2021;2;1;3
+Central African Republic;Cape Verde;2021;1;1;2
+Mali;Rwanda;2021;1;0;1
+Egypt;Angola;2021;1;0;1
+Libya;Gabon;2021;2;1;3
+Senegal;Togo;2021;2;0;2
+Guinea-Bissau;Guinea;2021;1;1;2
+Portugal;Republic of Ireland;2021;2;1;3
+Luxembourg;Azerbaijan;2021;2;1;3
+Kazakhstan;Ukraine;2021;2;2;4
+France;Bosnia and Herzegovina;2021;1;1;2
+Faroe Islands;Israel;2021;0;4;4
+Denmark;Scotland;2021;2;0;2
+Moldova;Austria;2021;0;2;2
+Norway;Netherlands;2021;1;1;2
+Latvia;Gibraltar;2021;3;1;4
+Turkey;Montenegro;2021;2;2;4
+Malta;Cyprus;2021;3;0;3
+Slovenia;Slovakia;2021;1;1;2
+Russia;Croatia;2021;0;0;0
+Kyrgyzstan;Palestine;2021;1;0;1
+Nepal;India;2021;1;1;2
+Niger;Burkina Faso;2021;0;2;2
+Algeria;Djibouti;2021;8;0;8
+Kenya;Uganda;2021;0;0;0
+Namibia;Congo;2021;1;1;2
+Morocco;Sudan;2021;2;0;2
+DR Congo;Tanzania;2021;1;1;2
+Madagascar;Benin;2021;0;1;1
+South Korea;Iraq;2021;0;0;0
+Iran;Syria;2021;1;0;1
+United Arab Emirates;Lebanon;2021;0;0;0
+Japan;Oman;2021;0;1;1
+Australia;China PR;2021;3;0;3
+Saudi Arabia;Vietnam;2021;3;1;4
+Georgia;Kosovo;2021;0;1;1
+Sweden;Spain;2021;2;1;3
+Italy;Bulgaria;2021;1;1;2
+Lithuania;Northern Ireland;2021;1;4;5
+Czech Republic;Belarus;2021;1;0;1
+Estonia;Belgium;2021;2;5;7
+Andorra;San Marino;2021;2;0;2
+Hungary;England;2021;0;4;4
+Poland;Albania;2021;4;1;5
+Iceland;Romania;2021;0;2;2
+Liechtenstein;Germany;2021;0;2;2
+North Macedonia;Armenia;2021;0;0;0
+Bolivia;Colombia;2021;1;1;2
+Ecuador;Paraguay;2021;2;0;2
+Peru;Uruguay;2021;1;1;2
+Venezuela;Argentina;2021;1;3;4
+Chile;Brazil;2021;0;1;1
+Canada;Honduras;2021;1;1;2
+El Salvador;United States;2021;0;0;0
+Panama;Costa Rica;2021;0;0;0
+Mexico;Jamaica;2021;2;1;3
+Mauritania;Zambia;2021;1;2;3
+Tunisia;Equatorial Guinea;2021;3;0;3
+Nigeria;Liberia;2021;2;0;2
+Mozambique;Ivory Coast;2021;0;0;0
+Cameroon;Malawi;2021;2;0;2
+Zimbabwe;South Africa;2021;0;0;0
+Ghana;Ethiopia;2021;1;0;1
+Bosnia and Herzegovina;Kuwait;2021;1;0;1
+Burundi;Seychelles;2021;8;1;9
+Haiti;Jordan;2021;2;0;2
+Qatar;Portugal;2021;1;3;4
+Republic of Ireland;Azerbaijan;2021;1;1;2
+Serbia;Luxembourg;2021;4;1;5
+Finland;Kazakhstan;2021;1;0;1
+Ukraine;France;2021;1;1;2
+Faroe Islands;Denmark;2021;0;1;1
+Scotland;Moldova;2021;1;0;1
+Israel;Austria;2021;5;2;7
+Latvia;Norway;2021;0;2;2
+Gibraltar;Turkey;2021;0;3;3
+Netherlands;Montenegro;2021;4;0;4
+Slovenia;Malta;2021;1;0;1
+Cyprus;Russia;2021;0;2;2
+Slovakia;Croatia;2021;0;1;1
+Bangladesh;Palestine;2021;0;2;2
+Estonia;Northern Ireland;2021;0;1;1
+Nepal;India;2021;1;2;3
+Sweden;Uzbekistan;2021;2;1;3
+Rwanda;Kenya;2021;1;1;2
+Gabon;Egypt;2021;1;1;2
+Togo;Namibia;2021;0;1;1
+Kosovo;Greece;2021;1;1;2
+Spain;Georgia;2021;4;0;4
+Bulgaria;Lithuania;2021;1;0;1
+Switzerland;Italy;2021;0;0;0
+Belarus;Wales;2021;2;3;5
+Belgium;Czech Republic;2021;3;0;3
+England;Andorra;2021;4;0;4
+Albania;Hungary;2021;1;0;1
+San Marino;Poland;2021;1;7;8
+Iceland;North Macedonia;2021;2;2;4
+Germany;Armenia;2021;6;0;6
+Romania;Liechtenstein;2021;2;0;2
+Ecuador;Chile;2021;0;0;0
+Paraguay;Colombia;2021;1;1;2
+Uruguay;Bolivia;2021;4;2;6
+Peru;Venezuela;2021;1;0;1
+Costa Rica;Mexico;2021;0;1;1
+El Salvador;Honduras;2021;0;0;0
+Jamaica;Panama;2021;0;3;3
+United States;Canada;2021;1;1;2
+Djibouti;Niger;2021;2;4;6
+Liberia;Central African Republic;2021;1;0;1
+Ivory Coast;Cameroon;2021;2;1;3
+Uganda;Mali;2021;0;0;0
+South Africa;Ghana;2021;1;0;1
+Benin;DR Congo;2021;1;1;2
+Kyrgyzstan;Bangladesh;2021;4;1;5
+Bahrain;Jordan;2021;1;2;3
+Comoros;Burundi;2021;1;0;1
+Luxembourg;Qatar;2021;1;1;2
+Burkina Faso;Algeria;2021;1;1;2
+Zambia;Tunisia;2021;0;2;2
+Equatorial Guinea;Mauritania;2021;1;0;1
+Cape Verde;Nigeria;2021;1;2;3
+Malawi;Mozambique;2021;1;0;1
+Angola;Libya;2021;0;1;1
+Ethiopia;Zimbabwe;2021;1;0;1
+Congo;Senegal;2021;1;3;4
+Sudan;Guinea-Bissau;2021;2;4;6
+Tanzania;Madagascar;2021;3;2;5
+Syria;United Arab Emirates;2021;1;1;2
+South Korea;Lebanon;2021;1;0;1
+Iraq;Iran;2021;0;3;3
+China PR;Japan;2021;0;1;1
+Vietnam;Australia;2021;0;1;1
+Oman;Saudi Arabia;2021;0;1;1
+Republic of Ireland;Serbia;2021;1;1;2
+Azerbaijan;Portugal;2021;0;3;3
+Bosnia and Herzegovina;Kazakhstan;2021;2;2;4
+France;Finland;2021;2;0;2
+Faroe Islands;Moldova;2021;2;1;3
+Austria;Scotland;2021;0;1;1
+Denmark;Israel;2021;5;0;5
+Montenegro;Latvia;2021;0;0;0
+Netherlands;Turkey;2021;6;1;7
+Norway;Gibraltar;2021;5;1;6
+Croatia;Slovenia;2021;3;0;3
+Slovakia;Cyprus;2021;2;0;2
+Russia;Malta;2021;2;0;2
+Bulgaria;Georgia;2021;4;1;5
+Czech Republic;Ukraine;2021;1;1;2
+Guatemala;Nicaragua;2021;2;2;4
+Kosovo;Spain;2021;0;2;2
+Greece;Sweden;2021;2;1;3
+Northern Ireland;Switzerland;2021;0;0;0
+Italy;Lithuania;2021;5;0;5
+Wales;Estonia;2021;0;0;0
+Belarus;Belgium;2021;0;1;1
+Albania;San Marino;2021;5;0;5
+Hungary;Andorra;2021;2;1;3
+Poland;England;2021;1;1;2
+Iceland;Germany;2021;0;4;4
+Armenia;Liechtenstein;2021;1;1;2
+North Macedonia;Romania;2021;0;0;0
+Costa Rica;Jamaica;2021;1;1;2
+Panama;Mexico;2021;1;1;2
+Canada;El Salvador;2021;3;0;3
+Honduras;United States;2021;1;4;5
+Colombia;Chile;2021;3;1;4
+Paraguay;Venezuela;2021;2;1;3
+Uruguay;Ecuador;2021;1;0;1
+Argentina;Bolivia;2021;3;0;3
+Brazil;Peru;2021;2;0;2
+El Salvador;Guatemala;2021;0;2;2
+Egypt;Liberia;2021;2;0;2
+Sri Lanka;Bangladesh;2021;0;1;1
+Maldives;Nepal;2021;0;1;1
+Bangladesh;India;2021;1;1;2
+Sri Lanka;Nepal;2021;2;3;5
+Sudan;Guinea;2021;1;1;2
+Morocco;Guinea-Bissau;2021;5;0;5
+Bahrain;Curaçao;2021;4;0;4
+Jordan;Malaysia;2021;4;0;4
+Sierra Leone;South Sudan;2021;1;1;2
+Italy;Spain;2021;1;2;3
+Iraq;Lebanon;2021;0;0;0
+South Korea;Syria;2021;2;1;3
+United Arab Emirates;Iran;2021;0;1;1
+Saudi Arabia;Japan;2021;1;0;1
+China PR;Vietnam;2021;3;2;5
+Australia;Oman;2021;3;1;4
+Honduras;Costa Rica;2021;0;0;0
+United States;Jamaica;2021;2;0;2
+El Salvador;Panama;2021;1;0;1
+Mexico;Canada;2021;1;1;2
+Equatorial Guinea;Zambia;2021;2;0;2
+Tunisia;Mauritania;2021;3;0;3
+Liberia;Cape Verde;2021;1;2;3
+Nigeria;Central African Republic;2021;0;1;1
+Rwanda;Uganda;2021;0;1;1
+Mali;Kenya;2021;5;0;5
+DR Congo;Madagascar;2021;2;0;2
+Tanzania;Benin;2021;0;1;1
+Ecuador;Bolivia;2021;3;0;3
+Venezuela;Brazil;2021;1;3;4
+Paraguay;Argentina;2021;0;0;0
+Peru;Chile;2021;2;0;2
+Uruguay;Colombia;2021;0;0;0
+Indonesia;Taiwan;2021;2;1;3
+India;Sri Lanka;2021;0;0;0
+Maldives;Bangladesh;2021;2;0;2
+Belgium;France;2021;2;3;5
+Czech Republic;Wales;2021;2;2;4
+Estonia;Belarus;2021;2;0;2
+Gibraltar;Montenegro;2021;0;3;3
+Latvia;Netherlands;2021;0;1;1
+Turkey;Norway;2021;1;1;2
+Malta;Slovenia;2021;0;4;4
+Cyprus;Croatia;2021;0;3;3
+Russia;Slovakia;2021;1;0;1
+Iceland;Armenia;2021;1;1;2
+Germany;Romania;2021;2;1;3
+Liechtenstein;North Macedonia;2021;0;4;4
+Algeria;Niger;2021;6;1;7
+Djibouti;Burkina Faso;2021;0;4;4
+Malawi;Ivory Coast;2021;0;3;3
+Cameroon;Mozambique;2021;3;1;4
+Angola;Gabon;2021;3;1;4
+Egypt;Libya;2021;1;0;1
+Azerbaijan;Republic of Ireland;2021;0;3;3
+Luxembourg;Serbia;2021;0;1;1
+Sweden;Kosovo;2021;3;0;3
+Georgia;Greece;2021;0;2;2
+Lithuania;Bulgaria;2021;3;1;4
+Switzerland;Northern Ireland;2021;2;0;2
+Finland;Ukraine;2021;1;2;3
+Kazakhstan;Bosnia and Herzegovina;2021;0;2;2
+Scotland;Israel;2021;3;2;5
+Faroe Islands;Austria;2021;0;2;2
+Moldova;Denmark;2021;0;4;4
+Andorra;England;2021;0;5;5
+Hungary;Albania;2021;0;1;1
+Poland;San Marino;2021;5;0;5
+Ethiopia;South Africa;2021;1;3;4
+Ghana;Zimbabwe;2021;3;1;4
+Togo;Congo;2021;1;1;2
+Senegal;Namibia;2021;4;1;5
+Guinea;Sudan;2021;2;2;4
+Curaçao;New Zealand;2021;1;2;3
+Gambia;Sierra Leone;2021;1;2;3
+Portugal;Qatar;2021;3;0;3
+Uzbekistan;Malaysia;2021;5;1;6
+Guam;Cambodia;2021;0;1;1
+Morocco;Guinea-Bissau;2021;3;0;3
+Costa Rica;El Salvador;2021;2;1;3
+Jamaica;Canada;2021;0;0;0
+Panama;United States;2021;1;0;1
+Mexico;Honduras;2021;3;0;3
+Zambia;Equatorial Guinea;2021;1;1;2
+Mauritania;Tunisia;2021;0;0;0
+Central African Republic;Nigeria;2021;0;2;2
+Cape Verde;Liberia;2021;1;0;1
+Kenya;Mali;2021;0;1;1
+Uganda;Rwanda;2021;1;0;1
+Benin;Tanzania;2021;0;1;1
+Madagascar;DR Congo;2021;1;0;1
+Bolivia;Peru;2021;1;0;1
+Colombia;Brazil;2021;0;0;0
+Venezuela;Ecuador;2021;2;1;3
+Argentina;Uruguay;2021;3;0;3
+Chile;Paraguay;2021;2;0;2
+Maldives;Sri Lanka;2021;1;0;1
+Nepal;India;2021;0;1;1
+Italy;Belgium;2021;2;1;3
+Spain;France;2021;1;2;3
+Belarus;Czech Republic;2021;0;2;2
+Estonia;Wales;2021;0;1;1
+Netherlands;Gibraltar;2021;6;0;6
+Norway;Montenegro;2021;2;0;2
+Latvia;Turkey;2021;1;2;3
+Cyprus;Malta;2021;2;2;4
+Croatia;Slovakia;2021;2;2;4
+Slovenia;Russia;2021;1;2;3
+Iceland;Liechtenstein;2021;4;0;4
+North Macedonia;Germany;2021;0;4;4
+Romania;Armenia;2021;1;0;1
+Burkina Faso;Djibouti;2021;2;0;2
+Mozambique;Cameroon;2021;0;1;1
+Ivory Coast;Malawi;2021;2;1;3
+Gabon;Angola;2021;2;0;2
+Libya;Egypt;2021;0;3;3
+Taiwan;Indonesia;2021;0;3;3
+Iran;South Korea;2021;1;1;2
+Syria;Lebanon;2021;2;3;5
+United Arab Emirates;Iraq;2021;2;2;4
+Japan;Australia;2021;2;1;3
+Oman;Vietnam;2021;3;1;4
+Saudi Arabia;China PR;2021;3;2;5
+Portugal;Luxembourg;2021;5;0;5
+Serbia;Azerbaijan;2021;3;1;4
+Kosovo;Georgia;2021;1;2;3
+Sweden;Greece;2021;2;0;2
+Bulgaria;Northern Ireland;2021;2;1;3
+Lithuania;Switzerland;2021;0;4;4
+Kazakhstan;Finland;2021;0;2;2
+Ukraine;Bosnia and Herzegovina;2021;1;1;2
+Faroe Islands;Scotland;2021;0;1;1
+Denmark;Austria;2021;1;0;1
+Israel;Moldova;2021;2;1;3
+England;Hungary;2021;1;1;2
+Albania;Poland;2021;0;1;1
+San Marino;Andorra;2021;0;3;3
+Niger;Algeria;2021;0;4;4
+Zimbabwe;Ghana;2021;0;1;1
+South Africa;Ethiopia;2021;1;0;1
+Namibia;Senegal;2021;1;3;4
+Congo;Togo;2021;1;2;3
+Bahrain;New Zealand;2021;0;1;1
+Jordan;Uzbekistan;2021;3;0;3
+Republic of Ireland;Qatar;2021;4;0;4
+South Sudan;Gambia;2021;1;2;3
+Cambodia;Guam;2021;2;1;3
+Morocco;Guinea;2021;4;1;5
+Honduras;Jamaica;2021;0;2;2
+United States;Costa Rica;2021;2;1;3
+Canada;Panama;2021;4;1;5
+El Salvador;Mexico;2021;0;2;2
+Bangladesh;Nepal;2021;1;1;2
+Maldives;India;2021;1;3;4
+Bolivia;Paraguay;2021;4;0;4
+Colombia;Ecuador;2021;0;0;0
+Argentina;Peru;2021;1;0;1
+Brazil;Uruguay;2021;4;1;5
+Chile;Venezuela;2021;3;0;3
+India;Nepal;2021;3;0;3
+Mexico;Ecuador;2021;2;3;5
+El Salvador;Bolivia;2021;0;1;1
+Sri Lanka;Maldives;2021;4;4;8
+Kosovo;Jordan;2021;0;2;2
+Nicaragua;Cuba;2021;0;3;3
+Bangladesh;Seychelles;2021;1;1;2
+Czech Republic;Kuwait;2021;7;0;7
+Kyrgyzstan;Singapore;2021;2;1;3
+Serbia;Qatar;2021;4;0;4
+Ukraine;Bulgaria;2021;1;1;2
+Uganda;Kenya;2021;1;1;2
+Rwanda;Mali;2021;0;3;3
+Ethiopia;Ghana;2021;1;1;2
+South Africa;Zimbabwe;2021;1;0;1
+Congo;Namibia;2021;1;1;2
+Togo;Senegal;2021;1;1;2
+Tanzania;DR Congo;2021;0;3;3
+Benin;Madagascar;2021;2;0;2
+Lebanon;Iran;2021;1;2;3
+Iraq;Syria;2021;1;1;2
+South Korea;United Arab Emirates;2021;1;0;1
+China PR;Oman;2021;1;1;2
+Vietnam;Japan;2021;0;1;1
+Australia;Saudi Arabia;2021;0;0;0
+Republic of Ireland;Portugal;2021;0;0;0
+Azerbaijan;Luxembourg;2021;1;3;4
+Georgia;Sweden;2021;2;0;2
+Greece;Spain;2021;0;1;1
+Russia;Cyprus;2021;6;0;6
+Malta;Croatia;2021;1;7;8
+Slovakia;Slovenia;2021;2;2;4
+Germany;Liechtenstein;2021;9;0;9
+Armenia;North Macedonia;2021;0;5;5
+Romania;Iceland;2021;0;0;0
+Ecuador;Venezuela;2021;1;0;1
+Paraguay;Chile;2021;0;1;1
+Peru;Bolivia;2021;3;0;3
+Brazil;Colombia;2021;1;0;1
+Burkina Faso;Niger;2021;1;1;2
+Djibouti;Algeria;2021;0;4;4
+Gabon;Libya;2021;1;0;1
+Angola;Egypt;2021;2;2;4
+Guinea;Guinea-Bissau;2021;0;0;0
+Morocco;Sudan;2021;3;0;3
+Canada;Costa Rica;2021;1;0;1
+Honduras;Panama;2021;2;3;5
+El Salvador;Jamaica;2021;1;1;2
+United States;Mexico;2021;2;0;2
+Northern Ireland;Lithuania;2021;1;0;1
+Italy;Switzerland;2021;1;1;2
+Moldova;Scotland;2021;0;2;2
+Denmark;Faroe Islands;2021;3;1;4
+Austria;Israel;2021;4;2;6
+England;Albania;2021;5;0;5
+Andorra;Poland;2021;1;4;5
+Hungary;San Marino;2021;4;0;4
+Uruguay;Argentina;2021;0;1;1
+Burundi;Myanmar;2021;2;1;3
+Nicaragua;Cuba;2021;2;0;2
+Sierra Leone;Comoros;2021;0;2;2
+Bangladesh;Maldives;2021;2;1;3
+Sri Lanka;Seychelles;2021;0;1;1
+Zambia;Mauritania;2021;4;0;4
+Equatorial Guinea;Tunisia;2021;1;0;1
+Cape Verde;Central African Republic;2021;2;1;3
+Liberia;Nigeria;2021;0;2;2
+Malawi;Cameroon;2021;0;4;4
+Ivory Coast;Mozambique;2021;3;0;3
+Bosnia and Herzegovina;Finland;2021;1;3;4
+France;Kazakhstan;2021;8;0;8
+Wales;Belarus;2021;5;1;6
+Belgium;Estonia;2021;3;1;4
+Norway;Latvia;2021;0;0;0
+Turkey;Gibraltar;2021;6;0;6
+Montenegro;Netherlands;2021;2;2;4
+Azerbaijan;Qatar;2021;2;2;4
+Nicaragua;Cuba;2021;2;0;2
+Mali;Uganda;2021;1;0;1
+Zimbabwe;Ethiopia;2021;1;1;2
+Ghana;South Africa;2021;1;0;1
+Senegal;Congo;2021;2;0;2
+DR Congo;Benin;2021;2;0;2
+Madagascar;Tanzania;2021;1;1;2
+Portugal;Serbia;2021;1;2;3
+Luxembourg;Republic of Ireland;2021;0;3;3
+Spain;Sweden;2021;1;0;1
+Greece;Kosovo;2021;1;1;2
+Croatia;Russia;2021;1;0;1
+Malta;Slovakia;2021;0;6;6
+Slovenia;Cyprus;2021;2;1;3
+Liechtenstein;Romania;2021;0;2;2
+North Macedonia;Iceland;2021;3;1;4
+Armenia;Germany;2021;1;4;5
+Georgia;Uzbekistan;2021;1;0;1
+Lithuania;Kuwait;2021;1;1;2
+Niger;Djibouti;2021;7;2;9
+Kenya;Rwanda;2021;2;1;3
+Namibia;Togo;2021;0;1;1
+Guinea-Bissau;Sudan;2021;0;0;0
+Northern Ireland;Italy;2021;0;0;0
+Switzerland;Bulgaria;2021;4;0;4
+Scotland;Denmark;2021;2;0;2
+Austria;Moldova;2021;4;1;5
+Israel;Faroe Islands;2021;3;2;5
+Albania;Andorra;2021;1;0;1
+Poland;Hungary;2021;1;2;3
+San Marino;England;2021;0;10;10
+Bahrain;Kyrgyzstan;2021;4;2;6
+Belarus;Jordan;2021;1;0;1
+Kazakhstan;Tajikistan;2021;1;0;1
+New Zealand;Gambia;2021;2;0;2
+Indonesia;Afghanistan;2021;0;1;1
+Maldives;Seychelles;2021;0;0;0
+Sri Lanka;Bangladesh;2021;2;1;3
+Algeria;Burkina Faso;2021;2;2;4
+Mauritania;Equatorial Guinea;2021;1;1;2
+Tunisia;Zambia;2021;3;1;4
+Liberia;Central African Republic;2021;3;1;4
+Nigeria;Cape Verde;2021;1;1;2
+Mozambique;Malawi;2021;1;0;1
+Cameroon;Ivory Coast;2021;1;0;1
+Egypt;Gabon;2021;2;1;3
+Libya;Angola;2021;1;1;2
+Morocco;Guinea;2021;3;0;3
+Lebanon;United Arab Emirates;2021;0;1;1
+Iraq;South Korea;2021;0;3;3
+Syria;Iran;2021;0;3;3
+China PR;Australia;2021;1;1;2
+Vietnam;Saudi Arabia;2021;0;1;1
+Oman;Japan;2021;0;1;1
+Jamaica;United States;2021;1;1;2
+Canada;Mexico;2021;2;1;3
+Costa Rica;Honduras;2021;2;1;3
+Panama;El Salvador;2021;2;1;3
+Bosnia and Herzegovina;Ukraine;2021;0;2;2
+Finland;France;2021;0;2;2
+Wales;Belgium;2021;1;1;2
+Czech Republic;Estonia;2021;2;0;2
+Gibraltar;Latvia;2021;1;3;4
+Montenegro;Turkey;2021;1;2;3
+Netherlands;Norway;2021;2;0;2
+Bolivia;Uruguay;2021;3;0;3
+Venezuela;Peru;2021;1;2;3
+Colombia;Paraguay;2021;0;0;0
+Argentina;Brazil;2021;0;0;0
+Chile;Ecuador;2021;0;2;2
+Sri Lanka;Seychelles;2021;3;3;6
+Indonesia;Myanmar;2021;4;1;5
+Iraq;Oman;2021;1;1;2
+Qatar;Bahrain;2021;1;0;1
+Tunisia;Mauritania;2021;5;1;6
+United Arab Emirates;Syria;2021;2;1;3
+Morocco;Palestine;2021;4;0;4
+Saudi Arabia;Jordan;2021;0;1;1
+Algeria;Sudan;2021;4;0;4
+Egypt;Lebanon;2021;1;0;1
+Bahrain;Iraq;2021;0;0;0
+Qatar;Oman;2021;2;1;3
+Mauritania;United Arab Emirates;2021;0;1;1
+Syria;Tunisia;2021;2;0;2
+El Salvador;Ecuador;2021;1;1;2
+Jordan;Morocco;2021;0;4;4
+Palestine;Saudi Arabia;2021;1;1;2
+Lebanon;Algeria;2021;0;2;2
+Sudan;Egypt;2021;0;5;5
+Oman;Bahrain;2021;3;0;3
+Qatar;Iraq;2021;3;0;3
+Syria;Mauritania;2021;1;2;3
+Tunisia;United Arab Emirates;2021;1;0;1
+Jordan;Palestine;2021;5;1;6
+Morocco;Saudi Arabia;2021;1;0;1
+Algeria;Egypt;2021;1;1;2
+Lebanon;Sudan;2021;1;0;1
+Mexico;Chile;2021;2;2;4
+Tanzania;Uganda;2021;0;2;2
+Tunisia;Oman;2021;2;1;3
+Qatar;United Arab Emirates;2021;5;0;5
+Egypt;Jordan;2021;3;1;4
+Morocco;Algeria;2021;2;2;4
+El Salvador;Chile;2021;0;1;1
+Tunisia;Egypt;2021;1;0;1
+Qatar;Algeria;2021;1;2;3
+Qatar;Egypt;2021;0;0;0
+Tunisia;Algeria;2021;0;2;2
+United States;Bosnia and Herzegovina;2021;1;0;1
+Mauritania;Burkina Faso;2021;0;0;0
+Sudan;Ethiopia;2021;2;3;5
+Malawi;Comoros;2021;2;1;3
+Gabon;Burkina Faso;2022;0;3;3
+Sudan;Zimbabwe;2022;0;0;0
+Rwanda;Guinea;2022;3;0;3
+Mauritania;Gabon;2022;1;1;2
+Algeria;Ghana;2022;3;0;3
+Rwanda;Guinea;2022;0;2;2
+Cameroon;Burkina Faso;2022;2;1;3
+Ethiopia;Cape Verde;2022;0;1;1
+Senegal;Zimbabwe;2022;1;0;1
+Guinea;Malawi;2022;1;0;1
+Morocco;Ghana;2022;1;0;1
+Comoros;Gabon;2022;0;1;1
+Nigeria;Egypt;2022;1;0;1
+Sudan;Guinea-Bissau;2022;0;0;0
+Algeria;Sierra Leone;2022;0;0;0
+Iceland;Uganda;2022;1;1;2
+Equatorial Guinea;Ivory Coast;2022;0;1;1
+Tunisia;Mali;2022;0;1;1
+Mauritania;Gambia;2022;0;1;1
+Cameroon;Ethiopia;2022;4;1;5
+Cape Verde;Burkina Faso;2022;0;1;1
+Senegal;Guinea;2022;0;0;0
+Malawi;Zimbabwe;2022;2;1;3
+Morocco;Comoros;2022;2;0;2
+Gabon;Ghana;2022;1;1;2
+South Korea;Iceland;2022;5;1;6
+Nigeria;Sudan;2022;3;1;4
+Guinea-Bissau;Egypt;2022;0;1;1
+Colombia;Honduras;2022;2;1;3
+Peru;Panama;2022;1;1;2
+Ivory Coast;Sierra Leone;2022;2;2;4
+Algeria;Equatorial Guinea;2022;0;1;1
+Gambia;Mali;2022;1;1;2
+Tunisia;Mauritania;2022;4;0;4
+Burkina Faso;Ethiopia;2022;1;1;2
+Cameroon;Cape Verde;2022;1;1;2
+Moldova;Uganda;2022;2;3;5
+Malawi;Senegal;2022;0;0;0
+Zimbabwe;Guinea;2022;2;1;3
+Gabon;Morocco;2022;2;2;4
+Ghana;Comoros;2022;2;3;5
+Egypt;Sudan;2022;1;0;1
+Guinea-Bissau;Nigeria;2022;0;2;2
+South Korea;Moldova;2022;4;0;4
+Peru;Jamaica;2022;3;0;3
+Ivory Coast;Algeria;2022;3;1;4
+Sierra Leone;Equatorial Guinea;2022;0;1;1
+Gambia;Tunisia;2022;1;0;1
+Mali;Mauritania;2022;2;0;2
+Bolivia;Trinidad and Tobago;2022;5;0;5
+Iraq;Uganda;2022;1;0;1
+Burkina Faso;Gabon;2022;1;1;2
+Nigeria;Tunisia;2022;0;1;1
+Cameroon;Comoros;2022;2;1;3
+Guinea;Gambia;2022;0;1;1
+Morocco;Malawi;2022;2;1;3
+Senegal;Cape Verde;2022;2;0;2
+Ivory Coast;Egypt;2022;0;0;0
+Mali;Equatorial Guinea;2022;0;0;0
+Bahrain;Uganda;2022;3;1;4
+Indonesia;Timor-Leste;2022;4;1;5
+Uzbekistan;South Sudan;2022;3;0;3
+Jamaica;Mexico;2022;1;2;3
+United States;El Salvador;2022;1;0;1
+Honduras;Canada;2022;0;2;2
+Costa Rica;Panama;2022;1;0;1
+Lebanon;South Korea;2022;0;1;1
+Iran;Iraq;2022;1;0;1
+United Arab Emirates;Syria;2022;2;0;2
+Japan;China PR;2022;2;0;2
+Australia;Vietnam;2022;4;0;4
+Saudi Arabia;Oman;2022;1;0;1
+Ecuador;Brazil;2022;1;1;2
+Paraguay;Uruguay;2022;0;1;1
+Chile;Argentina;2022;1;2;3
+Jordan;New Zealand;2022;3;1;4
+Suriname;Barbados;2022;1;0;1
+Colombia;Peru;2022;0;1;1
+Venezuela;Bolivia;2022;4;1;5
+Kuwait;Libya;2022;2;0;2
+Nepal;Mauritius;2022;1;0;1
+Nicaragua;Belize;2022;4;0;4
+Burkina Faso;Tunisia;2022;1;0;1
+Cameroon;Gambia;2022;2;0;2
+Indonesia;Timor-Leste;2022;3;0;3
+Egypt;Morocco;2022;2;1;3
+Senegal;Equatorial Guinea;2022;3;1;4
+Canada;United States;2022;2;0;2
+Mexico;Costa Rica;2022;0;0;0
+Panama;Jamaica;2022;3;2;5
+Honduras;El Salvador;2022;0;2;2
+Bahrain;DR Congo;2022;1;0;1
+Kuwait;Libya;2022;0;2;2
+Nepal;Mauritius;2022;1;0;1
+Nicaragua;Belize;2022;1;1;2
+Suriname;Guyana;2022;2;1;3
+Lebanon;Iraq;2022;1;1;2
+Iran;United Arab Emirates;2022;1;0;1
+Syria;South Korea;2022;0;2;2
+Vietnam;China PR;2022;3;1;4
+Japan;Saudi Arabia;2022;2;0;2
+Oman;Australia;2022;2;2;4
+Bolivia;Chile;2022;2;3;5
+Uruguay;Venezuela;2022;4;1;5
+Argentina;Colombia;2022;1;0;1
+Peru;Ecuador;2022;1;1;2
+Brazil;Paraguay;2022;4;0;4
+Burkina Faso;Senegal;2022;1;3;4
+United States;Honduras;2022;3;0;3
+Jamaica;Costa Rica;2022;0;1;1
+El Salvador;Canada;2022;0;2;2
+Mexico;Panama;2022;1;0;1
+Cameroon;Egypt;2022;0;0;0
+Cameroon;Burkina Faso;2022;3;3;6
+Senegal;Egypt;2022;0;0;0
+Cook Islands;Solomon Islands;2022;0;2;2
+Papua New Guinea;New Zealand;2022;0;1;1
+New Caledonia;Fiji;2022;1;2;3
+Iraq;Zambia;2022;3;1;4
+Mauritius;Seychelles;2022;0;0;0
+Papua New Guinea;New Caledonia;2022;1;0;1
+New Zealand;Fiji;2022;4;0;4
+Bahrain;India;2022;2;1;3
+Gibraltar;Grenada;2022;0;0;0
+Guinea-Bissau;Equatorial Guinea;2022;3;0;3
+Guadeloupe;Cape Verde;2022;0;2;2
+Laos;Mongolia;2022;1;0;1
+Malaysia;Philippines;2022;2;0;2
+Mozambique;Niger;2022;1;1;2
+Tanzania;Central African Republic;2022;3;1;4
+Chad;Gambia;2022;0;1;1
+Djibouti;South Sudan;2022;2;4;6
+Seychelles;Lesotho;2022;0;0;0
+Somalia;Eswatini;2022;0;3;3
+Jamaica;El Salvador;2022;1;1;2
+Mexico;United States;2022;0;0;0
+Panama;Honduras;2022;1;1;2
+Costa Rica;Canada;2022;1;0;1
+Lebanon;Syria;2022;0;3;3
+Iraq;United Arab Emirates;2022;1;0;1
+South Korea;Iran;2022;2;0;2
+China PR;Saudi Arabia;2022;1;1;2
+Vietnam;Oman;2022;0;1;1
+Australia;Japan;2022;0;2;2
+Solomon Islands;Tahiti;2022;3;1;4
+Fiji;Papua New Guinea;2022;1;2;3
+New Zealand;New Caledonia;2022;7;1;8
+Colombia;Bolivia;2022;3;0;3
+Brazil;Chile;2022;4;0;4
+Paraguay;Ecuador;2022;3;1;4
+Uruguay;Peru;2022;1;0;1
+Italy;North Macedonia;2022;0;1;1
+Portugal;Turkey;2022;3;1;4
+Sweden;Czech Republic;2022;1;0;1
+Wales;Austria;2022;2;1;3
+Armenia;Montenegro;2022;1;0;1
+Guatemala;Cuba;2022;1;0;1
+Hungary;Serbia;2022;0;1;1
+Kosovo;Burkina Faso;2022;5;0;5
+Liberia;Benin;2022;0;4;4
+Maldives;Bangladesh;2022;2;0;2
+Scotland;Poland;2022;1;1;2
+Thailand;Nepal;2022;2;0;2
+Togo;Sierra Leone;2022;3;0;3
+Estonia;Cyprus;2022;0;0;0
+Moldova;Kazakhstan;2022;1;2;3
+Mauritius;São Tomé and Príncipe;2022;3;0;3
+Cameroon;Algeria;2022;0;1;1
+DR Congo;Morocco;2022;1;1;2
+Egypt;Senegal;2022;1;0;1
+Ghana;Nigeria;2022;0;0;0
+Mali;Tunisia;2022;0;1;1
+Argentina;Venezuela;2022;3;0;3
+Andorra;Saint Kitts and Nevis;2022;1;0;1
+Bosnia and Herzegovina;Georgia;2022;0;1;1
+Cape Verde;Liechtenstein;2022;6;0;6
+Comoros;Ethiopia;2022;2;1;3
+Congo;Zambia;2022;1;3;4
+France;Ivory Coast;2022;2;1;3
+Latvia;Kuwait;2022;1;1;2
+Luxembourg;Northern Ireland;2022;1;3;4
+Malta;Azerbaijan;2022;1;0;1
+Norway;Slovakia;2022;2;0;2
+Romania;Greece;2022;0;1;1
+San Marino;Lithuania;2022;1;2;3
+South Africa;Guinea;2022;0;0;0
+Tajikistan;Uganda;2022;1;1;2
+Trinidad and Tobago;Barbados;2022;9;0;9
+Uzbekistan;Kyrgyzstan;2022;3;1;4
+Angola;Guinea-Bissau;2022;3;2;5
+Bahrain;Burundi;2022;1;0;1
+Belarus;India;2022;3;0;3
+Central African Republic;Sudan;2022;0;0;0
+Croatia;Slovenia;2022;1;1;2
+England;Switzerland;2022;2;1;3
+Finland;Iceland;2022;1;1;2
+Germany;Israel;2022;2;0;2
+Gibraltar;Faroe Islands;2022;0;0;0
+Libya;Niger;2022;2;1;3
+Mauritania;Mozambique;2022;2;1;3
+Netherlands;Denmark;2022;4;2;6
+Qatar;Bulgaria;2022;2;1;3
+Republic of Ireland;Belgium;2022;2;2;4
+Singapore;Malaysia;2022;2;1;3
+Spain;Albania;2022;2;1;3
+El Salvador;Costa Rica;2022;1;2;3
+Canada;Jamaica;2022;4;0;4
+Honduras;Mexico;2022;0;1;1
+United States;Panama;2022;5;1;6
+New Zealand;Tahiti;2022;1;0;1
+Solomon Islands;Papua New Guinea;2022;3;2;5
+Barbados;Guyana;2022;0;5;5
+Belize;Cuba;2022;0;3;3
+Benin;Zambia;2022;2;1;3
+Guatemala;Haiti;2022;2;1;3
+Laos;Brunei;2022;3;2;5
+Liberia;Sierra Leone;2022;0;1;1
+Thailand;Suriname;2022;1;0;1
+South Sudan;Djibouti;2022;1;0;1
+Lesotho;Seychelles;2022;3;1;4
+Eswatini;Somalia;2022;2;1;3
+Mauritius;São Tomé and Príncipe;2022;3;3;6
+Andorra;Grenada;2022;1;0;1
+Cape Verde;San Marino;2022;2;0;2
+Montenegro;Greece;2022;1;0;1
+Vanuatu;Fiji;2022;1;2;3
+Algeria;Cameroon;2022;1;2;3
+Morocco;DR Congo;2022;4;1;5
+Nigeria;Ghana;2022;1;1;2
+Senegal;Egypt;2022;1;0;1
+Tunisia;Mali;2022;0;0;0
+Iran;Lebanon;2022;2;0;2
+Syria;Iraq;2022;1;1;2
+United Arab Emirates;South Korea;2022;1;0;1
+Japan;Vietnam;2022;1;1;2
+Oman;China PR;2022;2;0;2
+Saudi Arabia;Australia;2022;1;0;1
+Ecuador;Argentina;2022;1;1;2
+Peru;Paraguay;2022;2;0;2
+Bolivia;Brazil;2022;0;4;4
+Venezuela;Colombia;2022;0;1;1
+Chile;Uruguay;2022;0;2;2
+Poland;Sweden;2022;2;0;2
+Portugal;North Macedonia;2022;2;0;2
+Albania;Georgia;2022;0;0;0
+Angola;Equatorial Guinea;2022;0;0;0
+Austria;Scotland;2022;2;2;4
+Azerbaijan;Latvia;2022;0;1;1
+Bahrain;Belarus;2022;0;1;1
+Bangladesh;Mongolia;2022;0;0;0
+Belgium;Burkina Faso;2022;3;0;3
+Bosnia and Herzegovina;Luxembourg;2022;1;0;1
+Congo;Sierra Leone;2022;1;2;3
+Croatia;Bulgaria;2022;2;1;3
+Denmark;Serbia;2022;3;0;3
+England;Ivory Coast;2022;3;0;3
+Faroe Islands;Liechtenstein;2022;1;0;1
+Finland;Slovakia;2022;0;2;2
+France;South Africa;2022;5;0;5
+Israel;Romania;2022;2;2;4
+Liberia;Burundi;2022;1;2;3
+Malta;Kuwait;2022;2;0;2
+Mauritania;Libya;2022;2;0;2
+Netherlands;Germany;2022;1;1;2
+Northern Ireland;Hungary;2022;0;1;1
+Norway;Armenia;2022;9;0;9
+Qatar;Slovenia;2022;0;0;0
+Republic of Ireland;Lithuania;2022;1;0;1
+Singapore;Philippines;2022;2;0;2
+Spain;Iceland;2022;5;0;5
+Switzerland;Kosovo;2022;1;1;2
+Tanzania;Sudan;2022;1;1;2
+Togo;Benin;2022;1;1;2
+Trinidad and Tobago;Guyana;2022;1;1;2
+Turkey;Italy;2022;2;3;5
+Wales;Czech Republic;2022;1;1;2
+Tajikistan;Kyrgyzstan;2022;1;0;1
+Uzbekistan;Uganda;2022;4;2;6
+Cyprus;Estonia;2022;2;0;2
+Kazakhstan;Moldova;2022;0;1;1
+Gambia;Chad;2022;2;2;4
+Mexico;El Salvador;2022;2;0;2
+Costa Rica;United States;2022;2;0;2
+Panama;Canada;2022;1;0;1
+Jamaica;Honduras;2022;2;1;3
+Solomon Islands;New Zealand;2022;0;5;5
+El Salvador;Guatemala;2022;0;4;4
+Mexico;Guatemala;2022;0;0;0
+Bahamas;Turks and Caicos Islands;2022;4;2;6
+Dominica;Saint Vincent and the Grenadines;2022;2;1;3
+Bahamas;Turks and Caicos Islands;2022;1;2;3
+Dominica;Saint Vincent and the Grenadines;2022;3;1;4
+Yoruba Nation;Matabeleland;2022;1;1;2
+Biafra;Matabeleland;2022;0;1;1
+Yoruba Nation;Biafra;2022;0;1;1
+Mozambique;Eswatini;2022;0;1;1
+Thailand;Bahrain;2022;3;1;4
+Biafra;Matabeleland;2022;1;0;1
+Bahrain;Myanmar;2022;2;0;2
+Malaysia;Brunei;2022;4;0;4
+Thailand;Turkmenistan;2022;1;0;1
+Ethiopia;Lesotho;2022;1;1;2
+India;Jordan;2022;0;2;2
+Mexico;Nigeria;2022;2;1;3
+United Arab Emirates;Gambia;2022;1;1;2
+Ethiopia;Lesotho;2022;1;1;2
+Trinidad and Tobago;Saint Lucia;2022;1;0;1
+Thailand;Bahrain;2022;1;2;3
+Italy;Argentina;2022;0;3;3
+Scotland;Ukraine;2022;1;3;4
+Angola;Central African Republic;2022;2;1;3
+Ghana;Madagascar;2022;3;0;3
+Libya;Botswana;2022;1;0;1
+Poland;Wales;2022;2;1;3
+Australia;Jordan;2022;2;1;3
+Indonesia;Bangladesh;2022;0;0;0
+Malta;Venezuela;2022;0;1;1
+Kuwait;Singapore;2022;0;0;0
+Malaysia;Hong Kong;2022;2;0;2
+Syria;Tajikistan;2022;1;0;1
+United States;Morocco;2022;3;0;3
+Vietnam;Afghanistan;2022;2;0;2
+Tunisia;Equatorial Guinea;2022;4;0;4
+Mozambique;Rwanda;2022;1;1;2
+Panama;Costa Rica;2022;2;0;2
+Barbados;Antigua and Barbuda;2022;0;1;1
+Guadeloupe;Cuba;2022;2;1;3
+Belize;Dominican Republic;2022;0;2;2
+French Guiana;Guatemala;2022;2;0;2
+Anguilla;Dominica;2022;0;0;0
+Czech Republic;Switzerland;2022;2;1;3
+Spain;Portugal;2022;1;1;2
+Israel;Iceland;2022;2;2;4
+Serbia;Norway;2022;0;1;1
+Slovenia;Sweden;2022;0;2;2
+Northern Ireland;Greece;2022;0;1;1
+Cyprus;Kosovo;2022;0;2;2
+Georgia;Gibraltar;2022;4;0;4
+Bulgaria;North Macedonia;2022;1;1;2
+Estonia;San Marino;2022;2;0;2
+Cambodia;Timor-Leste;2022;2;1;3
+Ecuador;Nigeria;2022;1;0;1
+Japan;Paraguay;2022;4;1;5
+South Korea;Brazil;2022;1;5;6
+Mexico;Uruguay;2022;0;3;3
+Togo;Eswatini;2022;2;2;4
+Burkina Faso;Cape Verde;2022;2;0;2
+Comoros;Lesotho;2022;2;0;2
+Ivory Coast;Zambia;2022;3;1;4
+Curaçao;Honduras;2022;0;1;1
+Bahamas;Saint Vincent and the Grenadines;2022;1;0;1
+Nicaragua;Trinidad and Tobago;2022;2;1;3
+Sint Maarten;United States Virgin Islands;2022;1;1;2
+Turks and Caicos Islands;Bonaire;2022;1;4;5
+Saint Martin;Aruba;2022;0;0;0
+British Virgin Islands;Cayman Islands;2022;1;1;2
+Croatia;Austria;2022;0;3;3
+France;Denmark;2022;1;2;3
+Belgium;Netherlands;2022;1;4;5
+Kazakhstan;Azerbaijan;2022;2;0;2
+Belarus;Slovakia;2022;0;1;1
+Liechtenstein;Moldova;2022;0;2;2
+Latvia;Andorra;2022;3;0;3
+Nepal;Oman;2022;0;2;2
+Namibia;Burundi;2022;1;1;2
+Niger;Tanzania;2022;1;1;2
+Algeria;Uganda;2022;2;0;2
+Gambia;South Sudan;2022;1;0;1
+Mali;Congo;2022;4;0;4
+Mauritania;Sudan;2022;3;0;3
+DR Congo;Gabon;2022;0;1;1
+Senegal;Benin;2022;3;1;4
+Suriname;Jamaica;2022;1;1;2
+El Salvador;Grenada;2022;3;1;4
+Bermuda;Haiti;2022;0;0;0
+Montserrat;Guyana;2022;1;2;3
+Hungary;England;2022;1;0;1
+Italy;Germany;2022;1;1;2
+Armenia;Republic of Ireland;2022;1;0;1
+Finland;Bosnia and Herzegovina;2022;1;1;2
+Montenegro;Romania;2022;2;0;2
+Lithuania;Luxembourg;2022;0;2;2
+Turkey;Faroe Islands;2022;4;0;4
+Wales;Ukraine;2022;1;0;1
+Malawi;Ethiopia;2022;2;1;3
+Egypt;Guinea;2022;1;0;1
+Central African Republic;Ghana;2022;1;1;2
+Madagascar;Angola;2022;1;1;2
+Botswana;Tunisia;2022;0;0;0
+Costa Rica;Martinique;2022;2;0;2
+Cuba;Barbados;2022;3;0;3
+Antigua and Barbuda;Guadeloupe;2022;1;0;1
+Guatemala;Belize;2022;2;0;2
+Dominican Republic;French Guiana;2022;2;3;5
+Dominica;Anguilla;2022;1;1;2
+Portugal;Switzerland;2022;4;0;4
+Czech Republic;Spain;2022;2;2;4
+Serbia;Slovenia;2022;4;1;5
+Sweden;Norway;2022;1;2;3
+Cyprus;Northern Ireland;2022;0;0;0
+Kosovo;Greece;2022;0;1;1
+Gibraltar;North Macedonia;2022;0;2;2
+Bulgaria;Georgia;2022;2;5;7
+San Marino;Malta;2022;0;2;2
+Argentina;Estonia;2022;5;0;5
+Mexico;Ecuador;2022;0;0;0
+Peru;New Zealand;2022;1;0;1
+Saudi Arabia;Colombia;2022;0;1;1
+United States;Uruguay;2022;0;0;0
+Equatorial Guinea;Libya;2022;2;0;2
+Honduras;Curaçao;2022;1;2;3
+Saint Vincent and the Grenadines;Nicaragua;2022;2;2;4
+Trinidad and Tobago;Bahamas;2022;1;0;1
+Bonaire;Sint Maarten;2022;2;2;4
+United States Virgin Islands;Turks and Caicos Islands;2022;3;2;5
+Aruba;Saint Martin;2022;3;0;3
+Cayman Islands;British Virgin Islands;2022;1;1;2
+Austria;Denmark;2022;1;2;3
+Croatia;France;2022;1;1;2
+Iceland;Albania;2022;1;1;2
+Belarus;Azerbaijan;2022;0;0;0
+Slovakia;Kazakhstan;2022;0;1;1
+Latvia;Liechtenstein;2022;1;0;1
+Andorra;Moldova;2022;0;0;0
+South Korea;Chile;2022;2;0;2
+Japan;Brazil;2022;0;1;1
+Eswatini;Burkina Faso;2022;1;3;4
+Cape Verde;Togo;2022;2;0;2
+Zambia;Comoros;2022;2;1;3
+Senegal;Rwanda;2022;1;0;1
+Jamaica;Suriname;2022;3;1;4
+Grenada;El Salvador;2022;2;2;4
+Guyana;Bermuda;2022;2;1;3
+Haiti;Montserrat;2022;3;2;5
+Germany;England;2022;1;1;2
+Italy;Hungary;2022;2;1;3
+Finland;Montenegro;2022;2;0;2
+Bosnia and Herzegovina;Romania;2022;1;0;1
+Faroe Islands;Luxembourg;2022;0;1;1
+Lithuania;Turkey;2022;0;6;6
+Kuwait;Indonesia;2022;1;2;3
+Jordan;Nepal;2022;2;0;2
+Philippines;Yemen;2022;0;0;0
+Mongolia;Palestine;2022;0;1;1
+Thailand;Maldives;2022;3;0;3
+Uzbekistan;Sri Lanka;2022;3;0;3
+Hong Kong;Afghanistan;2022;2;1;3
+India;Cambodia;2022;2;0;2
+Bahrain;Bangladesh;2022;2;0;2
+Malaysia;Turkmenistan;2022;3;1;4
+Tajikistan;Myanmar;2022;4;0;4
+Kyrgyzstan;Singapore;2022;2;1;3
+Uganda;Niger;2022;1;1;2
+Tanzania;Algeria;2022;0;2;2
+Congo;Gambia;2022;1;0;1
+Gabon;Mauritania;2022;0;0;0
+Sudan;DR Congo;2022;2;1;3
+Benin;Mozambique;2022;0;1;1
+Wales;Netherlands;2022;1;2;3
+Belgium;Poland;2022;6;1;7
+Republic of Ireland;Ukraine;2022;0;1;1
+Scotland;Armenia;2022;2;0;2
+Guinea-Bissau;São Tomé and Príncipe;2022;5;1;6
+Nigeria;Sierra Leone;2022;2;1;3
+Burundi;Cameroon;2022;0;1;1
+Ethiopia;Egypt;2022;2;0;2
+Guinea;Malawi;2022;1;0;1
+South Sudan;Mali;2022;1;3;4
+Lesotho;Ivory Coast;2022;0;0;0
+Morocco;South Africa;2022;2;1;3
+Panama;Martinique;2022;5;0;5
+Canada;Curaçao;2022;4;0;4
+Barbados;Guadeloupe;2022;0;1;1
+Antigua and Barbuda;Cuba;2022;0;2;2
+Belize;French Guiana;2022;1;1;2
+Aruba;Saint Kitts and Nevis;2022;2;3;5
+Dominica;Saint Lucia;2022;0;1;1
+Cayman Islands;Puerto Rico;2022;0;3;3
+Portugal;Czech Republic;2022;2;0;2
+Switzerland;Spain;2022;0;1;1
+Norway;Slovenia;2022;0;0;0
+Sweden;Serbia;2022;0;1;1
+Kosovo;Northern Ireland;2022;3;2;5
+Greece;Cyprus;2022;3;0;3
+Gibraltar;Bulgaria;2022;1;1;2
+North Macedonia;Georgia;2022;0;3;3
+Malta;Estonia;2022;1;2;3
+New Zealand;Oman;2022;0;0;0
+San Marino;Iceland;2022;0;1;1
+Saudi Arabia;Venezuela;2022;0;1;1
+United States;Grenada;2022;5;0;5
+Saint Vincent and the Grenadines;Trinidad and Tobago;2022;0;2;2
+Bahamas;Nicaragua;2022;0;2;2
+Dominican Republic;Guatemala;2022;1;1;2
+Austria;France;2022;1;1;2
+Denmark;Croatia;2022;0;1;1
+Albania;Israel;2022;1;2;3
+Azerbaijan;Slovakia;2022;0;1;1
+Belarus;Kazakhstan;2022;1;1;2
+Moldova;Latvia;2022;2;4;6
+Andorra;Liechtenstein;2022;2;1;3
+South Korea;Paraguay;2022;2;2;4
+Chile;Tunisia;2022;0;2;2
+Japan;Ghana;2022;4;1;5
+Kuwait;Nepal;2022;4;1;5
+Indonesia;Jordan;2022;0;1;1
+Mongolia;Philippines;2022;0;1;1
+Yemen;Palestine;2022;0;5;5
+Sri Lanka;Thailand;2022;0;2;2
+Uzbekistan;Maldives;2022;4;0;4
+Cambodia;Hong Kong;2022;0;3;3
+India;Afghanistan;2022;2;1;3
+Bangladesh;Turkmenistan;2022;1;2;3
+Malaysia;Bahrain;2022;1;2;3
+Singapore;Tajikistan;2022;0;1;1
+Kyrgyzstan;Myanmar;2022;2;0;2
+Mexico;Suriname;2022;3;0;3
+Guyana;Haiti;2022;2;6;8
+Montserrat;Bermuda;2022;3;2;5
+United States Virgin Islands;Bonaire;2022;0;2;2
+Sint Maarten;Turks and Caicos Islands;2022;8;2;10
+England;Italy;2022;0;0;0
+Hungary;Germany;2022;1;1;2
+Wales;Belgium;2022;1;1;2
+Netherlands;Poland;2022;2;2;4
+Ukraine;Armenia;2022;3;0;3
+Republic of Ireland;Scotland;2022;3;0;3
+Montenegro;Bosnia and Herzegovina;2022;1;1;2
+Romania;Finland;2022;1;0;1
+Faroe Islands;Lithuania;2022;2;1;3
+Luxembourg;Turkey;2022;0;2;2
+Ecuador;Cape Verde;2022;1;0;1
+Uruguay;Panama;2022;5;0;5
+Martinique;Panama;2022;0;0;0
+Cuba;Antigua and Barbuda;2022;3;1;4
+Guadeloupe;Barbados;2022;2;1;3
+Saint Kitts and Nevis;Saint Martin;2022;1;1;2
+Saint Lucia;Anguilla;2022;2;0;2
+Puerto Rico;British Virgin Islands;2022;6;0;6
+Spain;Czech Republic;2022;2;0;2
+Switzerland;Portugal;2022;1;0;1
+Norway;Sweden;2022;3;2;5
+Slovenia;Serbia;2022;2;2;4
+Northern Ireland;Cyprus;2022;2;2;4
+Greece;Kosovo;2022;2;0;2
+North Macedonia;Gibraltar;2022;4;0;4
+Georgia;Bulgaria;2022;0;0;0
+Malta;San Marino;2022;1;0;1
+Iran;Algeria;2022;1;2;3
+Australia;Peru;2022;0;0;0
+São Tomé and Príncipe;Nigeria;2022;0;10;10
+Sierra Leone;Guinea-Bissau;2022;2;2;4
+Morocco;Liberia;2022;2;0;2
+Honduras;Canada;2022;2;1;3
+Nicaragua;Bahamas;2022;4;0;4
+Trinidad and Tobago;Saint Vincent and the Grenadines;2022;4;1;5
+Guatemala;Dominican Republic;2022;2;0;2
+Denmark;Austria;2022;2;0;2
+France;Croatia;2022;0;1;1
+Iceland;Israel;2022;2;2;4
+Azerbaijan;Belarus;2022;2;0;2
+Kazakhstan;Slovakia;2022;2;1;3
+Albania;Estonia;2022;0;0;0
+Costa Rica;New Zealand;2022;1;0;1
+Kuwait;Jordan;2022;0;3;3
+Indonesia;Nepal;2022;7;0;7
+Palestine;Philippines;2022;4;0;4
+Mongolia;Yemen;2022;2;0;2
+Maldives;Sri Lanka;2022;1;0;1
+Uzbekistan;Thailand;2022;2;0;2
+Afghanistan;Cambodia;2022;2;2;4
+India;Hong Kong;2022;4;0;4
+Bahrain;Turkmenistan;2022;1;0;1
+Malaysia;Bangladesh;2022;4;1;5
+Myanmar;Singapore;2022;2;6;8
+Kyrgyzstan;Tajikistan;2022;0;0;0
+Jamaica;Mexico;2022;1;1;2
+El Salvador;United States;2022;1;1;2
+Haiti;Guyana;2022;6;0;6
+French Guiana;Belize;2022;1;0;1
+Bonaire;United States Virgin Islands;2022;2;0;2
+Turks and Caicos Islands;Sint Maarten;2022;2;0;2
+England;Hungary;2022;0;4;4
+Germany;Italy;2022;5;2;7
+Netherlands;Wales;2022;3;2;5
+Poland;Belgium;2022;0;1;1
+Armenia;Scotland;2022;1;4;5
+Ukraine;Republic of Ireland;2022;1;1;2
+Bosnia and Herzegovina;Finland;2022;3;2;5
+Romania;Montenegro;2022;0;3;3
+Luxembourg;Faroe Islands;2022;2;2;4
+Turkey;Lithuania;2022;2;0;2
+Moldova;Andorra;2022;2;1;3
+Liechtenstein;Latvia;2022;0;2;2
+Chile;Ghana;2022;0;0;0
+Japan;Tunisia;2022;0;3;3
+South Korea;Egypt;2022;4;1;5
+Mapuche;Maule Sur;2022;0;1;1
+Mapuche;Aymara;2022;3;1;4
+Aymara;Maule Sur;2022;0;1;1
+Mexico;Paraguay;2022;0;1;1
+Fiji;New Caledonia;2022;1;0;1
+Solomon Islands;New Caledonia;2022;1;0;1
+Brunei Darussalam;Maldives;2022;0;3;3
+Hong Kong;Myanmar;2022;2;0;2
+Libya;Uganda;2022;0;0;0
+San Marino;Seychelles;2022;0;0;0
+Vietnam;Singapore;2022;4;0;4
+Scotland;Ukraine;2022;3;0;3
+Australia;New Zealand;2022;1;0;1
+Cambodia;Bangladesh;2022;0;1;1
+Comoros;Tunisia;2022;0;1;1
+Iceland;Venezuela;2022;1;0;1
+Suriname;Nicaragua;2022;2;1;3
+Thailand;Malaysia;2022;1;1;2
+Trinidad and Tobago;Tajikistan;2022;1;2;3
+Croatia;Denmark;2022;2;1;3
+France;Austria;2022;2;0;2
+Belgium;Wales;2022;2;1;3
+Poland;Netherlands;2022;0;2;2
+Lithuania;Faroe Islands;2022;1;1;2
+Turkey;Luxembourg;2022;3;3;6
+Kazakhstan;Belarus;2022;2;1;3
+Slovakia;Azerbaijan;2022;1;2;3
+Latvia;Moldova;2022;1;2;3
+Liechtenstein;Andorra;2022;0;2;2
+Japan;United States;2022;2;0;2
+Algeria;Guinea;2022;1;0;1
+Argentina;Honduras;2022;3;0;3
+Bahrain;Cape Verde;2022;1;2;3
+Brazil;Ghana;2022;3;0;3
+Cameroon;Uzbekistan;2022;0;2;2
+Canada;Qatar;2022;2;0;2
+DR Congo;Burkina Faso;2022;0;1;1
+Egypt;Niger;2022;3;0;3
+Iran;Uruguay;2022;1;0;1
+Iraq;Oman;2022;1;1;2
+Jordan;Syria;2022;2;0;2
+South Korea;Costa Rica;2022;2;2;4
+Mali;Zambia;2022;1;0;1
+Morocco;Chile;2022;2;0;2
+Paraguay;United Arab Emirates;2022;1;0;1
+Rwanda;Equatorial Guinea;2022;0;0;0
+Saudi Arabia;Ecuador;2022;0;0;0
+Germany;Hungary;2022;0;1;1
+Italy;England;2022;1;0;1
+Bosnia and Herzegovina;Montenegro;2022;1;0;1
+Finland;Romania;2022;1;1;2
+Georgia;North Macedonia;2022;2;0;2
+Bulgaria;Gibraltar;2022;5;1;6
+Estonia;Malta;2022;2;1;3
+Bolivia;Senegal;2022;0;2;2
+Colombia;Guatemala;2022;4;1;5
+Fiji;Solomon Islands;2022;2;2;4
+Grenada;Saint Vincent and the Grenadines;2022;1;3;4
+Hong Kong;Myanmar;2022;0;0;0
+India;Singapore;2022;1;1;2
+Indonesia;Curaçao;2022;3;2;5
+Ivory Coast;Togo;2022;2;1;3
+Laos;Maldives;2022;1;3;4
+Madagascar;Congo;2022;3;3;6
+Mauritania;Benin;2022;1;0;1
+Mexico;Peru;2022;1;0;1
+South Africa;Sierra Leone;2022;4;0;4
+Tanzania;Uganda;2022;1;0;1
+Vanuatu;Papua New Guinea;2022;0;1;1
+Czech Republic;Portugal;2022;0;4;4
+Spain;Switzerland;2022;1;2;3
+Armenia;Ukraine;2022;0;5;5
+Scotland;Republic of Ireland;2022;2;1;3
+Israel;Albania;2022;2;1;3
+Slovenia;Norway;2022;2;1;3
+Serbia;Sweden;2022;4;1;5
+Northern Ireland;Kosovo;2022;2;1;3
+Cyprus;Greece;2022;1;0;1
+Thailand;Trinidad and Tobago;2022;2;1;3
+Malaysia;Tajikistan;2022;0;0;0
+New Zealand;Australia;2022;0;2;2
+Niger;Liberia;2022;0;0;0
+Austria;Croatia;2022;1;3;4
+Denmark;France;2022;2;0;2
+Wales;Poland;2022;0;1;1
+Netherlands;Belgium;2022;1;0;1
+Faroe Islands;Turkey;2022;2;1;3
+Luxembourg;Lithuania;2022;1;0;1
+Slovakia;Belarus;2022;1;1;2
+Azerbaijan;Kazakhstan;2022;3;0;3
+Andorra;Latvia;2022;1;1;2
+Moldova;Liechtenstein;2022;2;0;2
+Ethiopia;Sudan;2022;2;2;4
+Iraq;Syria;2022;1;0;1
+Jordan;Oman;2022;1;0;1
+England;Germany;2022;3;3;6
+Hungary;Italy;2022;0;2;2
+Montenegro;Finland;2022;0;2;2
+Romania;Bosnia and Herzegovina;2022;4;1;5
+Gibraltar;Georgia;2022;1;2;3
+North Macedonia;Bulgaria;2022;0;1;1
+San Marino;Estonia;2022;0;4;4
+Fiji;Papua New Guinea;2022;0;1;1
+Algeria;Nigeria;2022;2;1;3
+Argentina;Jamaica;2022;3;0;3
+Bahrain;Panama;2022;0;2;2
+Brazil;Tunisia;2022;5;1;6
+Brunei Darussalam;Laos;2022;1;0;1
+Burkina Faso;Comoros;2022;2;1;3
+Canada;Uruguay;2022;0;2;2
+DR Congo;Sierra Leone;2022;3;0;3
+Costa Rica;Uzbekistan;2022;2;1;3
+Ecuador;Japan;2022;0;0;0
+Egypt;Liberia;2022;3;0;3
+Equatorial Guinea;Togo;2022;2;2;4
+Ghana;Nicaragua;2022;1;0;1
+Honduras;Guatemala;2022;2;1;3
+Indonesia;Curaçao;2022;2;1;3
+Iran;Senegal;2022;1;1;2
+Ivory Coast;Guinea;2022;3;1;4
+South Korea;Cameroon;2022;1;0;1
+Libya;Tanzania;2022;2;1;3
+Madagascar;Benin;2022;3;1;4
+Malta;Israel;2022;2;1;3
+Mauritania;Congo;2022;2;0;2
+Mexico;Colombia;2022;2;3;5
+Nepal;Bangladesh;2022;3;1;4
+Paraguay;Morocco;2022;0;0;0
+Peru;El Salvador;2022;4;1;5
+Qatar;Chile;2022;2;2;4
+Saudi Arabia;United States;2022;0;0;0
+South Africa;Botswana;2022;1;0;1
+United Arab Emirates;Venezuela;2022;0;4;4
+Vietnam;India;2022;3;0;3
+Portugal;Spain;2022;0;1;1
+Switzerland;Czech Republic;2022;2;1;3
+Republic of Ireland;Armenia;2022;3;2;5
+Ukraine;Scotland;2022;0;0;0
+Albania;Iceland;2022;1;1;2
+Norway;Serbia;2022;0;2;2
+Sweden;Slovenia;2022;1;1;2
+Kosovo;Cyprus;2022;5;1;6
+Greece;Northern Ireland;2022;3;1;4
+Fiji;Solomon Islands;2022;1;0;1
+Saint Vincent and the Grenadines;Grenada;2022;1;5;6
+Saudi Arabia;North Macedonia;2022;1;0;1
+Qatar;Guatemala;2022;2;0;2
+Saudi Arabia;Albania;2022;1;1;2
+Qatar;Honduras;2022;1;0;1
+Saudi Arabia;Honduras;2022;0;0;0
+Brunei;Timor-Leste;2022;6;2;8
+Saudi Arabia;Iceland;2022;1;0;1
+Qatar;Panama;2022;2;1;3
+Brunei;Timor-Leste;2022;0;1;1
+Albania;Qatar;2022;0;1;1
+Cameroon;Jamaica;2022;1;1;2
+Costa Rica;Nigeria;2022;2;0;2
+Mexico;Iraq;2022;4;0;4
+Iran;Nicaragua;2022;1;0;1
+Saudi Arabia;Panama;2022;1;1;2
+Bahrain;Canada;2022;2;2;4
+South Korea;Iceland;2022;1;0;1
+Iraq;Ecuador;2022;0;0;0
+Syria;Algeria;2022;0;1;1
+Venezuela;Panama;2022;2;2;4
+Albania;Italy;2022;1;3;4
+Algeria;Mali;2022;1;1;2
+Andorra;Austria;2022;0;1;1
+Cyprus;Bulgaria;2022;0;2;2
+Czech Republic;Faroe Islands;2022;5;0;5
+Dominican Republic;Cuba;2022;2;4;6
+Gibraltar;Liechtenstein;2022;2;0;2
+Iran;Tunisia;2022;0;2;2
+Ivory Coast;Burundi;2022;4;0;4
+Kosovo;Armenia;2022;2;2;4
+Mexico;Sweden;2022;1;2;3
+Moldova;Azerbaijan;2022;1;2;3
+Nepal;Pakistan;2022;1;0;1
+Nicaragua;El Salvador;2022;1;0;1
+Oman;Germany;2022;0;1;1
+Peru;Paraguay;2022;1;0;1
+Poland;Chile;2022;1;0;1
+Saudi Arabia;Croatia;2022;0;1;1
+Turkey;Scotland;2022;2;1;3
+United Arab Emirates;Argentina;2022;0;5;5
+Uzbekistan;Kazakhstan;2022;2;0;2
+Lithuania;Iceland;2022;0;0;0
+Latvia;Estonia;2022;1;1;2
+Angola;Botswana;2022;1;0;1
+Gabon;Guinea-Bissau;2022;3;1;4
+Israel;Zambia;2022;4;2;6
+Japan;Canada;2022;1;2;3
+Jordan;Spain;2022;1;3;4
+Luxembourg;Hungary;2022;2;2;4
+Malta;Greece;2022;2;2;4
+Montenegro;Slovakia;2022;2;2;4
+Morocco;Georgia;2022;3;0;3
+Niger;Libya;2022;2;3;5
+North Macedonia;Finland;2022;1;1;2
+Portugal;Nigeria;2022;4;0;4
+Republic of Ireland;Norway;2022;1;2;3
+Romania;Slovenia;2022;1;2;3
+Rwanda;Sudan;2022;0;0;0
+South Africa;Mozambique;2022;2;1;3
+Saint Lucia;San Marino;2022;1;1;2
+Switzerland;Ghana;2022;0;2;2
+Syria;Belarus;2022;0;1;1
+Tajikistan;Russia;2022;0;0;0
+Bahrain;Serbia;2022;1;5;6
+Cameroon;Panama;2022;1;1;2
+Dominican Republic;Cuba;2022;1;1;2
+Egypt;Belgium;2022;2;1;3
+Albania;Armenia;2022;2;0;2
+Colombia;Paraguay;2022;2;0;2
+Gibraltar;Andorra;2022;1;0;1
+Guatemala;Nicaragua;2022;3;1;4
+Ivory Coast;Burkina Faso;2022;1;2;3
+Kosovo;Faroe Islands;2022;1;1;2
+Kuwait;Lebanon;2022;2;0;2
+Peru;Bolivia;2022;1;0;1
+Rwanda;Sudan;2022;1;0;1
+Sweden;Algeria;2022;2;0;2
+Turkey;Czech Republic;2022;2;1;3
+United Arab Emirates;Kazakhstan;2022;2;1;3
+Estonia;Lithuania;2022;2;0;2
+Latvia;Iceland;2022;1;1;2
+Austria;Italy;2022;2;0;2
+Gambia;Guinea-Bissau;2022;0;0;0
+Hungary;Greece;2022;2;1;3
+Israel;Cyprus;2022;2;3;5
+Luxembourg;Bulgaria;2022;0;0;0
+Malta;Republic of Ireland;2022;0;1;1
+Moldova;Romania;2022;0;5;5
+Niger;Gabon;2022;1;3;4
+North Macedonia;Azerbaijan;2022;1;3;4
+Norway;Finland;2022;1;1;2
+Oman;Belarus;2022;2;0;2
+Slovakia;Chile;2022;0;0;0
+Slovenia;Montenegro;2022;1;0;1
+South Africa;Angola;2022;1;1;2
+Saint Lucia;San Marino;2022;1;0;1
+Syria;Venezuela;2022;1;2;3
+Uzbekistan;Russia;2022;0;0;0
+Qatar;Ecuador;2022;0;2;2
+Senegal;Netherlands;2022;0;2;2
+England;Iran;2022;6;2;8
+United States;Wales;2022;1;1;2
+Argentina;Saudi Arabia;2022;1;2;3
+Mexico;Poland;2022;0;0;0
+Denmark;Tunisia;2022;0;0;0
+France;Australia;2022;4;1;5
+Germany;Japan;2022;1;2;3
+Spain;Costa Rica;2022;7;0;7
+Morocco;Croatia;2022;0;0;0
+Belgium;Canada;2022;1;0;1
+Switzerland;Cameroon;2022;1;0;1
+Brazil;Serbia;2022;2;0;2
+Uruguay;South Korea;2022;0;0;0
+Portugal;Ghana;2022;3;2;5
+Qatar;Senegal;2022;1;3;4
+Netherlands;Ecuador;2022;1;1;2
+Wales;Iran;2022;0;2;2

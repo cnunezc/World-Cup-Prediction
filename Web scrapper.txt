@@ -1,0 +1,53 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+def scrape_news(start_date, end_date, url):
+    # Hacer solicitud HTTP a la url y obtener el código HTML
+    response = requests.get(url)
+    html = response.text
+
+    # Crear objeto BeautifulSoup y analizar el HTML
+    soup = BeautifulSoup(html, 'html.parser')
+
+    # Encontrar todas las noticias en la página
+    news_items = soup.find_all('div', class_='news-item')
+
+    # Crear una lista para almacenar los datos de las noticias
+    news_data = []
+
+    # Iterar sobre cada noticia y extraer los datos relevantes
+    for item in news_items:
+        title = item.find('h3').text
+        date = item.find('span', class_='date').text
+        content = item.find('p').text
+
+        # Almacenar los datos de la noticia en un diccionario
+        news_dict = {
+            'title': title,
+            'date': date,
+            'content': content
+        }
+
+        # Añadir el diccionario a la lista
+        news_data.append(news_dict)
+
+    # Crear un dataframe de Pandas a partir de la lista
+    df = pd.DataFrame(news_data)
+
+    # Filtrar las noticias por fecha
+    df = df[(df['date'] >= start_date) & (df['date'] <= end_date)]
+
+    return df
+
+# Ejemplo de uso del web scraper
+start_date = '2022-01-01'
+end_date = '2022-01-31'
+url = 'https://www.financial-news.com/'
+df = scrape_news(start_date, end_date, url)
+
+# Mostrar el dataframe resultante
+print(df)
+
+# Guardar el dataframe en un archivo CSV
+df.to_csv('financial_news.csv', index=False)
